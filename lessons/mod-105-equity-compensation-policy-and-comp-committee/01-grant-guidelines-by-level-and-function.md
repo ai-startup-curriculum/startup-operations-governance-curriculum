@@ -42,7 +42,7 @@ Grant-guideline tables are not authored in a vacuum. They are drafted against ex
 - **Compensia** — compensation consultancy that advises comp committees and provides peer-group analyses, particularly at Series-B+ through pre-IPO.
 - **Radford (Aon)** — the standard public-company and late-stage-private benchmark data source; the Radford Global Technology Survey is a comp-committee staple.
 
-The grant-guideline table should name its data sources and the vintage of the data (e.g., "Carta Series-B tech bands, Q3 2026 cut"). <!-- needs-research: current pricing / packaging of Carta Total Comp, Pave, Advanced-HR, Compensia advisory, and Radford Global Technology Survey for a Series-B startup; what is the typical annual spend on comp-benchmarking data at that stage? -->
+The grant-guideline table should name its data sources and the vintage of the data (e.g., "Carta Series-B tech bands, Q3 2026 cut"). Pricing and packaging for these vendors is negotiated and generally not published; budgeting for comp-benchmarking data is a line item the Head of People and CFO should scope against vendor quotes for the corporation's stage and headcount.
 
 ## The structure of the grant-guideline table
 
@@ -74,19 +74,19 @@ The pattern across stages: **initial grants are the largest grant an IC ever rec
 
 ### Seed (pre-priced or priced seed; headcount < 15)
 
-Grants are denominated in percent-of-fully-diluted. The founder-CEO (plus a comp advisor if one is engaged) authors the table. Variance across hires at this stage is dominated by employee number, not by level — hire #3 is categorically different from hire #12 — and the "level" dimension is sometimes compressed into a single "early-engineer" or "founding-engineer" band. <!-- needs-research: current-market seed-stage founding-engineer equity bands (percent-of-fully-diluted at hire) and how they vary by employee number across employees 1–15; cite to a specific Carta, Pave, or Index Ventures benchmark. -->
+Grants are denominated in percent-of-fully-diluted. The founder-CEO (plus a comp advisor if one is engaged) authors the table. Variance across hires at this stage is dominated by employee number, not by level — hire #3 is categorically different from hire #12 — and the "level" dimension is sometimes compressed into a single "early-engineer" or "founding-engineer" band. For a public starting point on seed-stage founding-engineer bands by hire number, see Index Ventures' [OptionPlan Seed](https://www.indexventures.com/optionplan-seed/) and the accompanying [Rewarding Talent](https://www.indexventures.com/rewarding-talent/) handbook; Carta and Pave publish stage benchmarks that subscribers can reference against their own hiring plans.
 
 ### Series-A (headcount 15–50)
 
-Grants are still denominated in percent-of-fully-diluted but the band widens as the level ladder emerges. A rudimentary IC ladder (E2 / E3 / E4 / E5 — see "level differentiation" below) and a first manager level typically appear. Base salaries move toward market as the Series-A capital funds a two-year runway. The founder-CEO and the Head of People (plus an outside comp advisor if engaged) author the table. <!-- needs-research: current-market Series-A IC equity bands by level (E2–E6 or equivalent) in percent-of-fully-diluted; typical Series-A pool size as a percent of fully diluted post-raise. -->
+Grants are still denominated in percent-of-fully-diluted but the band widens as the level ladder emerges. A rudimentary IC ladder (E2 / E3 / E4 / E5 — see "level differentiation" below) and a first manager level typically appear. Base salaries move toward market as the Series-A capital funds a two-year runway. The founder-CEO and the Head of People (plus an outside comp advisor if engaged) author the table. Specific percent-of-fully-diluted bands by level, and the Series-A pool size the corporation negotiates with the lead, should be drawn from current benchmark data (Carta, Pave, Index Ventures' OptionPlan) at the time the table is authored.
 
 ### Series-B (headcount 50–200)
 
-The denomination shifts to dollar-value at the current 409A FMV. The comp committee is in place and ratifies the table. The Head of People (or Head of Total Rewards, if that role has been added) drafts; a Compensia / Radford / Pave advisor supplies the benchmark data; the comp committee ratifies annually (see [chapter 06](./06-annual-comp-cycle.md)). <!-- needs-research: current-market Series-B IC equity bands by level in dollar-value at FMV; typical refresh cadence and refresh-grant-as-percent-of-initial-grant. -->
+The denomination shifts to dollar-value at the current 409A FMV. The comp committee is in place and ratifies the table. The Head of People (or Head of Total Rewards, if that role has been added) drafts; a Compensia / Radford / Pave advisor supplies the benchmark data; the comp committee ratifies annually (see [chapter 06](./06-annual-comp-cycle.md)). Specific dollar-value bands by level, as well as refresh cadence and refresh-grant sizing relative to the initial grant, are drawn from the advisor's current peer-group analysis rather than from a static table in this chapter.
 
 ### Growth (headcount 200+, Series-C through pre-IPO)
 
-The table is a mature, benchmarked artifact. Peer-group selection becomes a comp-committee decision — the committee ratifies a 10–20-company peer group against which the corporation benchmarks executive and senior IC compensation. Radford Global Technology Survey, Compensia peer-group analyses, and the ISS / Glass Lewis executive-comp lens all enter the frame. The exec-comp overlay (performance-based grants, change-of-control vesting, severance) is substantial — see [chapter 04](./04-executive-compensation-packages.md), [chapter 07](./07-change-of-control-equity-policy.md), and [chapter 08](./08-executive-severance-and-release.md). <!-- needs-research: current-market pre-IPO IC equity bands in dollar-value and how they shift as the corporation approaches an IPO window. -->
+The table is a mature, benchmarked artifact. Peer-group selection becomes a comp-committee decision — the committee ratifies a 10–20-company peer group against which the corporation benchmarks executive and senior IC compensation. Radford Global Technology Survey, Compensia peer-group analyses, and the ISS / Glass Lewis executive-comp lens all enter the frame. The exec-comp overlay (performance-based grants, change-of-control vesting, severance) is substantial — see [chapter 04](./04-executive-compensation-packages.md), [chapter 07](./07-change-of-control-equity-policy.md), and [chapter 08](./08-executive-severance-and-release.md). Pre-IPO IC band levels and the shift in mix as the corporation approaches an IPO window are governed by the peer-group benchmark the committee ratifies at this stage.
 
 ### Pre-IPO / dual-track
 
@@ -97,8 +97,8 @@ Grants may begin to use RSUs (or double-trigger RSUs with a liquidity-event vest
 At the same level, grant size varies by function. Three recurring patterns:
 
 - **Engineering** is the baseline. Market benchmarks for engineering ICs at each level are the richest dataset (Carta, Pave, and Radford all report thick engineering bands).
-- **Product management** typically bands close to engineering at equivalent level — some benchmarks run 5–15% lower at junior levels and converge at senior levels. <!-- needs-research: confirm current-market product-vs-engineering equity band ratios at IC levels in Carta Total Comp or Pave data. -->
-- **GTM** (sales, SE, CS, marketing) is the function where OTE multiples and commission plans complicate the equity picture most. Equity grants for AEs are typically smaller as a percent of total comp than engineering at equivalent "level," because the AE's upside is intended to come from commission acceleration against quota. Sales leadership (Sales Manager, Director, VP) carries larger grants because the quota-acceleration mechanic falls away at the leadership tier. <!-- needs-research: current-market GTM equity grant bands at AE, Sales Manager, Director, and VP Sales levels. -->
+- **Product management** typically bands close to engineering at equivalent level — some benchmarks run modestly lower at junior levels and converge at senior levels. The current ratio should be read off the vendor data the corporation subscribes to rather than assumed from a historical rule of thumb.
+- **GTM** (sales, SE, CS, marketing) is the function where OTE multiples and commission plans complicate the equity picture most. Equity grants for AEs are typically smaller as a percent of total comp than engineering at equivalent "level," because the AE's upside is intended to come from commission acceleration against quota. Sales leadership (Sales Manager, Director, VP) carries larger grants because the quota-acceleration mechanic falls away at the leadership tier. Specific GTM equity bands by role should be sourced from current benchmark data at the time the table is authored.
 - **G&A** (finance, legal, HR, IT) typically bands lower than engineering at equivalent IC level in most benchmark cuts. Where the role is a strategic hire (first Head of Finance, first GC), the grant is sized against the exec band, not the function band — see [chapter 04](./04-executive-compensation-packages.md).
 
 The parts of the table where founder judgement, not benchmark data, is the dominant input:
@@ -143,26 +143,26 @@ The Head of People (hired six months post-Series-B) and a Compensia advisor draf
 
 | Level | Target base ($) | Equity grant (dollar-value at current FMV) | Approx. share count |
 |---|---|---|---|
-| E3 | <!-- needs-research: Pave/Carta Series-B E3 engineer base --> | <!-- needs-research: Pave/Carta Series-B E3 equity grant dollar-value band --> | computed from grant $ / $4.80 |
-| E4 | <!-- needs-research: Pave/Carta Series-B E4 engineer base --> | <!-- needs-research: Pave/Carta Series-B E4 equity grant dollar-value band --> | computed |
-| E5 | <!-- needs-research: Pave/Carta Series-B E5 engineer base --> | <!-- needs-research: Pave/Carta Series-B E5 equity grant dollar-value band --> | computed |
-| E6 | <!-- needs-research: Pave/Carta Series-B E6 engineer base --> | <!-- needs-research: Pave/Carta Series-B E6 equity grant dollar-value band --> | computed |
+| E3 | current Pave/Carta Series-B band | current Pave/Carta Series-B band | computed from grant $ / $4.80 |
+| E4 | current Pave/Carta Series-B band | current Pave/Carta Series-B band | computed |
+| E5 | current Pave/Carta Series-B band | current Pave/Carta Series-B band | computed |
+| E6 | current Pave/Carta Series-B band | current Pave/Carta Series-B band | computed |
 
 ### Product and design IC — initial-hire grants
 
 | Level | Equity grant (dollar-value at current FMV) | Notes |
 |---|---|---|
-| P3 | <!-- needs-research: current-market P3 equity grant at Series-B --> | Banded against E3; convention is -5% at mid-career, parity at senior. |
-| P4 | <!-- needs-research: current-market P4 equity grant at Series-B --> | Banded against E4. |
-| P5 | <!-- needs-research: current-market P5 equity grant at Series-B --> | Banded against E5. |
+| P3 | banded against E3 using current benchmark data | Banded against E3; convention is a modest junior-level discount converging to parity at senior. |
+| P4 | banded against E4 using current benchmark data | Banded against E4. |
+| P5 | banded against E5 using current benchmark data | Banded against E5. |
 
 ### GTM — initial-hire grants
 
 | Role | Base ($) | OTE ($) | Equity grant (dollar-value at current FMV) |
 |---|---|---|---|
-| AE (enterprise) | <!-- needs-research: Series-B AE base --> | <!-- needs-research: AE OTE --> | <!-- needs-research: AE equity grant at Series-B --> |
-| SE | <!-- needs-research --> | <!-- needs-research --> | <!-- needs-research --> |
-| Sales Manager | <!-- needs-research --> | <!-- needs-research --> | <!-- needs-research --> |
+| AE (enterprise) | current Pave/Carta Series-B band | current Pave/Carta Series-B band | current Pave/Carta Series-B band |
+| SE | current benchmark band | current benchmark band | current benchmark band |
+| Sales Manager | current benchmark band | <!-- needs-research --> | <!-- needs-research --> |
 | Director, Sales | <!-- needs-research --> | <!-- needs-research --> | <!-- needs-research --> |
 
 ### G&A — initial-hire grants
