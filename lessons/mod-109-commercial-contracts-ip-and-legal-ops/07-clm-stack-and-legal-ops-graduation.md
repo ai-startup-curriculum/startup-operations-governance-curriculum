@@ -80,14 +80,14 @@ The CLM vendor landscape is crowded and evolves quickly. The evaluation dimensio
 - **Obligations-tracker capability.** Whether the tracker is a calendar with reminders (weak), a workflow engine with owners and escalation (strong), and whether it can ingest obligations directly from the executed contract via a metadata extraction step.
 - **Integration surface.** Salesforce, Slack, Google / Microsoft, IdP, e-signature, data warehouse. Native connectors are strongly preferred over API-plus-glue integrations at Series-A / B scale.
 - **Workflow customisation.** Whether non-technical legal-ops staff can configure new approval workflows, or whether every workflow change requires vendor professional services.
-- **Price point.** Order-of-magnitude annual licence cost. Enterprise CLM (Ironclad, Icertis) sits well above the mid-market (Concord, Contract Logix, LinkSquares); DocuSign CLM sits between them. Exact figures move constantly and are heavily negotiated. <!-- needs-research -->
+- **Price point.** Order-of-magnitude annual licence cost. Enterprise CLM (Ironclad, Icertis) sits well above the mid-market (Concord, Contract Logix, LinkSquares); DocuSign CLM sits between them. Exact figures move constantly and are heavily negotiated.
 - **Target buyer.** Whether the tool was designed for corporate legal, for sales ops, or for procurement. The target-buyer orientation tends to correlate with which sub-capabilities are strongest — sales-ops-oriented tools tend to have strong Salesforce integration and weaker obligations tracking; procurement-oriented tools tend to have strong buy-side workflow and weaker sell-side clause libraries.
 
 The commonly-evaluated vendors, with rough fit at startup stages:
 
 ### Ironclad
 
-Enterprise-grade CLM with a sophisticated workflow builder and strong Salesforce integration. Commonly selected at Series-B or Series-C when the corporation has enough contract volume, deal-desk headcount, and Salesforce maturity to exploit the workflow depth. Requires a real implementation programme (see below) and a dedicated CLM operator. Pricing sits at the upper end of the mid-market band. <!-- needs-research --> The AI-assisted redline review capabilities are marketed heavily; treat marketing claims as marketing and evaluate against the corporation's own redlines during POC. <!-- needs-research -->
+Enterprise-grade CLM with a sophisticated workflow builder and strong Salesforce integration. Commonly selected at Series-B or Series-C when the corporation has enough contract volume, deal-desk headcount, and Salesforce maturity to exploit the workflow depth. Requires a real implementation programme (see below) and a dedicated CLM operator. Pricing sits at the upper end of the mid-market band. The AI-assisted redline review capabilities are marketed heavily; treat marketing claims as marketing and evaluate against the corporation's own redlines during POC. <!-- needs-research -->
 
 ### LinkSquares
 

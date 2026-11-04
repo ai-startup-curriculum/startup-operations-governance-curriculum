@@ -71,9 +71,9 @@ Executive Order 14028 was issued May 12, 2021 in response to the SolarWinds and 
 
 **OMB M-22-18** (September 14, 2022), *Enhancing the Security of the Software Supply Chain through Secure Software Development Practices*, implements EO 14028 for federal agency software procurement. Agencies must obtain a self-attestation from software producers that the producer follows the SSDF, and may require an SBOM and other artifacts.
 
-<!-- needs-research: verify the current status of the CISA Secure Software Development Attestation Form and the timeline for federal-agency SBOM ingestion requirements (which have been extended multiple times) -->
+The federal-procurement side of this regime has shifted. [OMB Memorandum M-26-05](https://www.insidegovernmentcontracts.com/2026/02/omb-rescinds-the-common-form-secure-software-attestation-requirement/) (January 23, 2026) rescinded M-22-18 and M-23-16 and the standardised CISA Secure Software Development Attestation Form requirement; use of the attestation form and SBOM ingestion are now at agency discretion rather than mandatory government-wide. The form itself still exists (version 1.0, OMB control number 1670-0052, approved through 31 March 2027), and agencies may continue to request the attestation or require an SBOM on request under contract.
 
-The practical upshot for a corporation selling software to (or through a prime that sells to) a federal agency: expect to sign the CISA attestation form, expect to produce an SBOM on request, and expect the SBOM to be a machine-readable file in one of the three recognised formats below.
+The practical upshot for a corporation selling software to (or through a prime that sells to) a federal agency: expect that *some* agencies will still request the CISA attestation form and an SBOM, expect that enterprise customers more broadly continue to request SBOMs under their own procurement standards regardless of federal policy, and expect the SBOM to be a machine-readable file in one of the three recognised formats below.
 
 ### SBOM formats
 

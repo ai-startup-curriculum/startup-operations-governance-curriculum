@@ -229,11 +229,9 @@ The board has columns:
 - **IT provisioning.** SSO configured, users provisioned. Dwell time: 3–7 business days.
 - **Filed and tracked.** Contract uploaded to CLM, obligations calendared. Dwell time: 1 business day.
 
-Total onboarding time end-to-end: 1–2 weeks for a Tier 3 vendor (mostly a rubber-stamp path), 2–4 weeks for a Tier 2 vendor, 4–8 weeks for a Tier 1 vendor.
+Total onboarding time end-to-end is on the order of one to two weeks for a Tier 3 vendor (mostly a rubber-stamp path), several weeks for a Tier 2 vendor, and roughly one to two months or more for a Tier 1 vendor — these are practitioner working ranges rather than benchmarked figures, and the actual cycle time varies with counterparty cooperation, deal urgency, and the depth of security and regulatory review required.
 
 The corporation also runs a monthly review meeting (legal, security, finance, IT) to (i) triage any stalled onboarding cards, (ii) review the previous month's newly-onboarded vendors for any pattern issues, (iii) surface upcoming renewal deadlines from the CLM, and (iv) audit a random sample of tier-3 self-serve provisions to confirm they were correctly classified as Tier 3. The monthly cadence keeps the onboarding process from becoming invisible bureaucracy and creates a forcing function for the business units to plan vendor requests with lead time rather than emergency purchases.
-
-<!-- needs-research: whether industry benchmarks exist for vendor-onboarding cycle time at Series-B stage; the 1-2 / 2-4 / 4-8 week ranges above are typical from practitioner discussion but not from a citable study. -->
 
 ## Common failure modes
 
