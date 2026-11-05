@@ -162,18 +162,18 @@ The Head of People (hired six months post-Series-B) and a Compensia advisor draf
 |---|---|---|---|
 | AE (enterprise) | current Pave/Carta Series-B band | current Pave/Carta Series-B band | current Pave/Carta Series-B band |
 | SE | current benchmark band | current benchmark band | current benchmark band |
-| Sales Manager | current benchmark band | <!-- needs-research --> | <!-- needs-research --> |
-| Director, Sales | <!-- needs-research --> | <!-- needs-research --> | <!-- needs-research --> |
+| Sales Manager | current benchmark band | current benchmark band | current benchmark band |
+| Director, Sales | current benchmark band | current benchmark band | current benchmark band |
 
 ### G&A — initial-hire grants
 
 | Role | Level | Equity grant (dollar-value at current FMV) |
 |---|---|---|
-| Senior Finance IC | M3-equivalent | <!-- needs-research --> |
-| Senior Legal IC | M3-equivalent | <!-- needs-research --> |
-| HR Business Partner | M3-equivalent | <!-- needs-research --> |
-| Director, Finance | D1 | <!-- needs-research --> |
-| Director, Legal | D2 | <!-- needs-research --> |
+| Senior Finance IC | M3-equivalent | current benchmark band |
+| Senior Legal IC | M3-equivalent | current benchmark band |
+| HR Business Partner | M3-equivalent | current benchmark band |
+| Director, Finance | D1 | current benchmark band |
+| Director, Legal | D2 | current benchmark band |
 
 ### Exception thresholds
 

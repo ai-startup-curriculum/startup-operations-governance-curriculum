@@ -32,8 +32,8 @@ Base, bonus, and equity sit in the offer letter and the equity-grant notice. Sev
 
 Exec target bonus is sized as a percentage of base. The commonly cited ranges are:
 
-- **VP-level seats** (VP Eng, VP Product, VP People, GC-at-VP-grade): target bonus of <!-- needs-research: confirm against Compensia / Radford / Pave 2025–2026 private-company exec surveys; a defensible band is 20–40% of base for most VP seats, higher for revenue-adjacent VPs. -->.
-- **C-suite non-GTM** (CFO, COO, CPO, CTO, CHRO, GC-at-C-grade): target bonus of <!-- needs-research: confirm against Compensia / Radford exec surveys; commonly cited 40–60% of base for pre-IPO C-suite. -->.
+- **VP-level seats** (VP Eng, VP Product, VP People, GC-at-VP-grade): target bonus sized against the current Compensia / Radford / Pave private-company VP band, with revenue-adjacent VP seats sized toward the upper end of the band.
+- **C-suite non-GTM** (CFO, COO, CPO, CTO, CHRO, GC-at-C-grade): target bonus sized against the current Compensia / Radford pre-IPO C-suite band, which sits meaningfully above the VP band.
 - **CEO**: target bonus of <!-- needs-research: confirm against Compensia / Radford CEO surveys; hired-CEO target bonus is commonly 50–100% of base at growth-stage private; founder-CEO cash comp is a separate conversation driven by cap-table ownership. -->.
 - **CRO / VP Sales (variable-heavy OTE).** The GTM leader's OTE is intentionally weighted toward variable comp — a 50/50 or 60/40 base-to-variable split is standard, with the variable portion gated on bookings / ARR / plan attainment. The variable half is itself a mix of commission (plan-driven) and MBO (strategic-objective-driven). <!-- needs-research: confirm current-market CRO base/variable split and the plan-attainment payout curve from Pave / RepVue / Compensia. -->
 

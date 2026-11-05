@@ -77,7 +77,7 @@ Two sizing conventions exist, and they coexist at most Series-B and later corpor
 
 ### Percent-of-initial-grant
 
-The refresh is sized as a percentage of the employee's *original* initial grant. Commonly cited ranges are 25-50% of the initial grant for strong performers, scaled down for middle-quartile performers and down further or to zero for bottom-quartile. <!-- needs-research: confirm current-market refresh-as-percent-of-initial-grant benchmarks across quartiles; Carta refresh benchmarks and Pave compensation data are the usual primary sources. -->
+The refresh is sized as a percentage of the employee's *original* initial grant, with the highest percentage going to strong performers, scaled down for middle-quartile performers and down further or to zero for bottom-quartile. The specific quartile percentages should be set against current-cycle Carta and Pave refresh benchmarks for the corporation's stage and sector.
 
 **Advantages.** Easy to compute. Preserves the relative ordering of the initial grants, so an employee who was hired at a senior level continues to earn larger refresh grants than one hired at a junior level. Works even when the corporation does not yet have a mature levelling architecture.
 
@@ -87,7 +87,7 @@ The refresh is sized as a percentage of the employee's *original* initial grant.
 
 The refresh is sized as a dollar amount — tied to the employee's level and performance quartile — and converted to a share count using the current 409A valuation (see [chapter 04](./04-409a-and-pricing-mechanics.md)). This is the standard structure once RSUs are in the mix, which typically happens at Series-B or later as the fair value of the common grows into a range where options stop being tax-efficient.
 
-**Advantages.** The refresh is calibrated to the *current* market. Employees are brought up to a target forward-vest in dollar terms, not share-count terms. Benchmarking against external data (Carta Total Comp, Pave, Option Impact / Advanced-HR) is direct. <!-- needs-research: confirm the current primary benchmarking providers for refresh grant dollar values at Series-B through pre-IPO; Carta, Pave, Option Impact (Advanced-HR), Radford, and Compa are the commonly cited providers. -->
+**Advantages.** The refresh is calibrated to the *current* market. Employees are brought up to a target forward-vest in dollar terms, not share-count terms. Benchmarking against external data (the main private-company providers in this space include Carta Total Comp, Pave, Option Impact / Advanced-HR, Radford, and Compa) is direct.
 
 **Disadvantages.** Requires an up-to-date 409A, requires a levelling architecture that maps every employee to a target total-equity band, and requires the corporation to make a defensible choice about which market percentile to target.
 
@@ -140,7 +140,7 @@ The refresh budget is the dilution the corporation is willing to incur per year 
 
 ### Two sizing conventions
 
-- **Percent of outstanding fully-diluted shares.** Commonly cited ranges are 1-3% of fully-diluted outstanding per year at scale, with the lower end of the band appropriate at Series-B and the higher end common at pre-IPO when retention risk is highest. <!-- needs-research: confirm current-market refresh-pool-as-percent-of-fully-diluted benchmarks across Series-B, Series-C, growth, and pre-IPO stages. -->
+- **Percent of outstanding fully-diluted shares.** The pool is sized as a small single-digit percent of fully-diluted outstanding per year at scale, with a lower annual draw appropriate at Series-B and a higher draw common at pre-IPO when retention risk is highest. Calibrate the specific percent against current-cycle Carta and Pave refresh-pool benchmarks for the corporation's stage and sector.
 - **Percent of initial grants.** The refresh pool is sized as a percent (commonly 25-50%) of the initial grants being made that year, scaled by headcount of tenured employees eligible for refresh. Simpler to compute; less tightly bound to total dilution.
 
 The two conventions should produce roughly consistent numbers. If they diverge materially, the levelling architecture or the headcount plan is drifting from the equity philosophy — a signal to re-open the discussion from [chapter 01](./01-equity-philosophy-and-ownership-targets.md).
@@ -155,7 +155,7 @@ Within the refresh budget, how is the pool distributed across employees?
 
 ### Differentiated distribution
 
-The strong performers receive materially larger refreshes than the middle and lower performers. A commonly used shape — a "50-30-20" or similar skew — allocates roughly half of the refresh pool to the top quartile, roughly a third to the middle 50%, and the balance (sometimes zero) to the bottom quartile. <!-- needs-research: confirm current-market quartile-weighted refresh distributions; Pave and Carta publish ranges but the specific split varies by stage and sector. -->
+The strong performers receive materially larger refreshes than the middle and lower performers. The common shape is a top-heavy skew — a disproportionate share of the pool to the top quartile, a smaller share to the middle 50%, and the balance (sometimes zero) to the bottom quartile. Calibrate the specific split against current-cycle Pave and Carta distributions for the corporation's stage and sector.
 
 **Why this works.** The highest-leverage retention spend is on the strongest performers. Differentiated distribution signals to the organisation that performance matters in equity, not just in cash bonus.
 
@@ -187,12 +187,12 @@ A Series-B enterprise-software corporation ("Fictional-Corp") has 180 employees,
 
 - **Cadence.** Annual, aligned with the fiscal-year end. First cycle Q1 of the next fiscal year.
 - **Target forward-looking vest.** Two years at the annual anchor date for all tenured employees (hired more than 12 months before the anchor).
-- **Refresh pool.** 2% of fully-diluted outstanding, approximately <!-- needs-research: Fictional-Corp's post-Series-C fully-diluted share count would determine the absolute number; the policy is expressed as a percent so the committee approves the percent and the absolute number is computed at close. --> shares.
+- **Refresh pool.** 2% of fully-diluted outstanding, with the absolute share count computed from the post-Series-C fully-diluted total at close (the committee approves the percent; the share figure follows mechanically).
 - **Sizing method.** Dollar-value refresh at current 409A for L4 and above; percent-of-initial-grant for L1-L3 pending the levelling-architecture rollout later in the year.
 - **Distribution.** Differentiated — 50% of the pool to the top quartile, 35% to the middle 50%, 15% to the bottom quartile, zero to anyone on a performance-improvement plan.
 - **Vesting.** New 4-year vest from grant date, no cliff on refresh grants (initial grants retain the 1-year cliff).
 
-**A promotion-grant bolt-on.** A senior engineer is promoted from L4 to L5 effective Q2. The L4-to-L5 equity delta per the levelling architecture is <!-- needs-research: Fictional-Corp's levelling architecture would specify the dollar delta; a defensible Series-B / C range for an L4-to-L5 engineering promotion equity delta is in the low-hundreds-of-thousands of dollars at current 409A but should be sourced to Pave / Carta / Option Impact benchmarks. --> dollars at current 409A, converted to shares at the then-current 409A price. The grant vests on a new 4-year schedule from the promotion effective date. Under the blended policy, the engineer's Q4 annual refresh is sized against the L5 target, with the Q2 promotion grant counted against the forward-vest.
+**A promotion-grant bolt-on.** A senior engineer is promoted from L4 to L5 effective Q2. The L4-to-L5 equity delta per the levelling architecture is the dollar amount specified in the architecture for that transition (sized against current Pave / Carta / Option Impact benchmarks), converted to shares at the then-current 409A price. The grant vests on a new 4-year schedule from the promotion effective date. Under the blended policy, the engineer's Q4 annual refresh is sized against the L5 target, with the Q2 promotion grant counted against the forward-vest.
 
 **A retention-grant bolt-on.** A principal product manager is identified as mission-critical for the pre-IPO 18-month window (the corporation is targeting IPO readiness per the policy framework in [chapter 07](./07-change-of-control-equity-policy.md)). The CEO proposes a retention grant above the comp-committee threshold. The pre-read package to the committee (see [chapter 05](./05-compensation-committee.md)) includes: the employee's forward-vest curve showing the inflection in month 32; a benchmarking comparison from Pave / Carta Total Comp; the vesting schedule (24-month cliff at the targeted IPO window with 12-month tail); and the share-count impact against the refresh-pool budget. The committee approves.
 
