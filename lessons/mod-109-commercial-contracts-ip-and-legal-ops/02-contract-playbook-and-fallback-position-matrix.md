@@ -106,7 +106,7 @@ Notes: MFN clauses are a compounding drag on pricing strategy. Every MFN accepte
 |---|---|---|
 | Ideal | Auto-renew for successive terms equal to the initial term unless either party gives written notice of non-renewal at least 60 days before the end of the then-current term; renewal at then-current list pricing (or with a specified uplift cap, e.g., CPI plus 5%) | 60 days |
 | Acceptable | Auto-renew with 30-, 60-, or 90-day non-renewal window; uplift cap of CPI, CPI+3%, or a fixed percentage; some enterprise customers require affirmative (opt-in) renewal — accept for large deals if the customer commits to a renewal-decision milestone in the contract | 30 to 120 days |
-| Walk-away | Auto-renewal with less than 30 days' notice window (many state auto-renewal statutes require clearer notice — see the California ARL, Cal. Bus. & Prof. Code § 17600 et seq., and the equivalents in NY, IL, and others, which apply to consumer contracts but have influenced enterprise practice); indefinite auto-renewal without a rate mechanism; auto-renewal without a corresponding provider non-renewal right |
+| Walk-away | Auto-renewal with less than 30 days' notice window (many state auto-renewal statutes require clearer notice — see the California ARL, Cal. Bus. & Prof. Code § 17600 et seq., and the equivalents in NY, IL, and others, which apply to consumer contracts but have influenced enterprise practice); indefinite auto-renewal without a rate mechanism; auto-renewal without a corresponding provider non-renewal right | Less than 30 days or an impractical / undisclosed window |
 
 Notes: The state auto-renewal statutes primarily target consumer contracts but the compliance discipline (clear disclosure, easy cancellation) is a good baseline. See [mod-110](../mod-110-privacy-data-governance-and-sector-compliance/) for state-consumer-law crosswalks.
 
@@ -124,7 +124,7 @@ Notes: The state auto-renewal statutes primarily target consumer contracts but t
 |---|---|---|
 | Ideal | Delaware (if Delaware C-Corp) or the corporation's home state, without regard to conflicts principles; UCC applies to the extent applicable | Exclusive jurisdiction in state and federal courts of the corporation's home county / state; mutual waiver of forum non conveniens |
 | Acceptable | Neutral state (Delaware, New York) if counterparty resists home state; New York if counterparty is a New York financial institution; California if counterparty is California-based and refuses to leave state | Neutral venue in the chosen state; JAMS or AAA arbitration in the chosen state |
-| Walk-away | Counterparty's home state where that state has plaintiff-friendly consumer-protection statutes that apply to the deal; foreign-law governance for a US-only deal; UN Convention on Contracts for the International Sale of Goods (should always be excluded) |
+| Walk-away | Counterparty's home state where that state has plaintiff-friendly consumer-protection statutes that apply to the deal; foreign-law governance for a US-only deal; UN Convention on Contracts for the International Sale of Goods (should always be excluded) | Exclusive venue in a remote or inconvenient forum; non-US venue for a US-only deal; venue selected to favor the counterparty's local plaintiffs' bar |
 
 ### Confidentiality term
 
