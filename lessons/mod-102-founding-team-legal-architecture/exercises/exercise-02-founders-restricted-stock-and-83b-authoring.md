@@ -6,7 +6,17 @@
 
 You continue the same three-founder scenario from exercise 01 (Alex Chen — CEO; Priya Rao — CTO; Marcus Hill — VP GTM). The founder agreement is drafted and the equity split is set. Formation day is next Monday. Your job is to author the **Stock Purchase Agreements** for each founder and the **§ 83(b) elections** each founder will file, and to stand up the **corporation's 83(b) tracker** so that no future issuance ever slips the 30-day window.
 
-Assume the corporation is a Delaware C-corporation with 10,000,000 authorised common shares at $0.0001 par (you can adjust with a written justification if needed to accommodate the seed option pool or other headroom). Assume the founder agreement specifies the split you produced in exercise 01; if you did not do exercise 01, use 45 / 35 / 20 for Alex / Priya / Marcus. Assume Priya has 3 months of pre-formation full-time service on the project and Alex has 8 months of prior-employer part-time work on the underlying memo and prototype.
+Assume the corporation is a Delaware C-corporation with 10,000,000 authorised common shares at $0.0001 par (you can adjust with a written justification if needed to accommodate the seed option pool or other headroom). Assume the founder agreement specifies the split you produced in exercise 01; if you did not do exercise 01, use 45 / 35 / 20 for Alex / Priya / Marcus.
+
+## Founder facts relevant to the SPAs and 83(b) elections
+
+In addition to the facts from exercise 01, the following drive the drafting decisions in this exercise:
+
+- **Alex Chen (CEO)** — resident of **California**. 8 months of prior work on the underlying technical memo and prototype while employed part-time at a public cloud company; that work is contributed to the corporation as part of the SPA consideration (reconcile with the Prior Inventions schedule that exercise 03 will produce). Vesting-start date will backdate to the earliest defensible common-service date you set in exercise 01; justify it on the record. Cash on hand to pay the per-share purchase price: sufficient (contribution assumption from exercise 01: $50k).
+- **Priya Rao (CTO)** — resident of **Washington**. 3 months of pre-formation full-time service on the project during unpaid leave from her prior employer. Any prior-service credit must be justified on the record (chapter 02's "if defensible on the record" standard). Her 3-month prototype work is contributed as SPA consideration (same reconciliation point as Alex). Cash on hand: sufficient (contribution assumption from exercise 01: $10k).
+- **Marcus Hill (VP GTM)** — resident of **Illinois**. Starts full-time on the formation date; **no** pre-formation service and **no** IP contribution. Vesting-start date is the formation date; no prior-service credit. Cash on hand: sufficient (contribution assumption from exercise 01: $5k).
+
+Home-state data drives Part C (IRS Service Center selection); pre-formation service drives Part A vesting-start-date decisions; the IP-contribution facts drive Part A consideration drafting and reconcile with the forthcoming PIIA Prior Inventions schedule in exercise 03.
 
 ## Requirements
 
