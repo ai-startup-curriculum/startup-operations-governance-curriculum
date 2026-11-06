@@ -104,7 +104,7 @@ Every posture — including remote-first — has an in-person cadence. The quest
 | Team on-site | A single team plus manager | 2–4 per year (remote-first); 1–2 per year (hybrid); N/A (office-first) | Team-level project planning, retro, and relationship formation; typically 2–3 days at a named location |
 | Exec offsite | Exec team only | 3–4 per year | Exec-team-level strategy and relationship maintenance; distinct from the leadership summit |
 
-**The cost side.** A distributed workforce with the cadence above absorbs a real travel-and-venue spend line — commonly a meaningful percentage of people-costs at Series-A / Series-B <!-- needs-research: benchmark travel-and-venue spend as percentage of people-cost for distributed corporations at Series-A / Series-B --> — and the CFO is entitled to see the annual programme costed out. Under-investing in cadence at a remote-first corporation is a common false economy; the retention and cohesion cost of skipping the annual all-hands is much larger than the cash saved.
+**The cost side.** A distributed workforce with the cadence above absorbs a real travel-and-venue spend line — commonly a meaningful percentage of people-costs at Series-A / Series-B, though no authoritative public benchmark fixes the exact ratio — and the CFO is entitled to see the annual programme costed out. Under-investing in cadence at a remote-first corporation is a common false economy; the retention and cohesion cost of skipping the annual all-hands is much larger than the cash saved.
 
 **Attendance norms.** In-person forums are default-mandatory for the invited population; travel accommodations (visa, caregiver, disability, medical) are handled through the accommodation process in Decision 6. "Optional" in-person offsites are a two-track pattern — the people who attend get the CEO's time and the people who do not get the recording. Do not run optional offsites.
 
@@ -135,7 +135,7 @@ The internal-communications and coordination surface is chosen against the postu
 | Work tracking | GitHub Issues + a spreadsheet | Linear (or Jira for regulated environments) | Linear / Jira with cross-functional integration |
 | Employee directory | HRIS (Rippling, Gusto, Deel) | HRIS + Slack profile enrichment | HRIS + directory tooling |
 
-Do not invent pricing — vendor pricing changes and any figure written here dates immediately <!-- needs-research: current per-seat pricing across Slack, Teams, Notion, Linear, Zoom, Google Workspace as of authoring date -->. Weight the selection criteria above; validate pricing directly with the vendor at time of purchase.
+Do not invent pricing — vendor pricing changes and any figure written here dates immediately. Weight the selection criteria above; validate pricing directly with the vendor at time of purchase.
 
 **A note on Discord.** Discord is a legitimate choice for early-stage corporations, particularly ones with a community-facing product, but it lacks the enterprise controls (SSO, compliance exports, retention configuration) that become mandatory above roughly Series-A. Plan the migration path to Slack or Teams before the enterprise-controls gap becomes urgent.
 

@@ -108,7 +108,7 @@ The table below summarises the supplements that most frequently apply to a US-ba
 
 | Area | Statute / rule | Handbook obligation |
 | --- | --- | --- |
-| NY Paid Family Leave | NY Workers' Comp. Law § 200 et seq. | Employee-funded, wage-replacement leave for family care, bonding, military exigency; contribution rate updated annually <!-- needs-research: verify current NY PFL contribution rate and weekly benefit cap --> |
+| NY Paid Family Leave | NY Workers' Comp. Law § 200 et seq. | Employee-funded, wage-replacement leave for family care, bonding, military exigency; contribution rate and benefit cap updated annually by the NY Department of Financial Services and [paidfamilyleave.ny.gov](https://paidfamilyleave.ny.gov/) (for 2026: 0.432% of wages up to an annual employee cap of $411.91; 67% wage-replacement up to a maximum weekly benefit of $1,228.53) |
 | NYC ESSTA | NYC Admin. Code § 20-911 et seq. | NYC Earned Safe and Sick Time Act — accrual, use, and notice rights for NYC-based employees |
 | NY State sick leave | NY Labor Law § 196-b | Statewide paid sick leave; accrual tied to employer size |
 | Pay transparency | NYC Local Law 32 (2022); NY State Labor Law § 194-b (2023) | Salary-range disclosure in job postings and internal transfer / promotion opportunities |
@@ -134,15 +134,15 @@ The table below summarises the supplements that most frequently apply to a US-ba
 | POWR Act (2023) | Colo. Rev. Stat. § 24-34-402 as amended | Protecting Opportunities and Workers' Rights Act — expands harassment liability standard, adds marital-status protection, restricts NDA use in discrimination-and-harassment matters, imposes recordkeeping requirements |
 | Equal Pay for Equal Work Act | Colo. Rev. Stat. § 8-5-101 et seq. | Pay-range disclosure in job postings; disclosure of promotional opportunities to all Colorado employees; pay-data recordkeeping; 2024 amendments refine the promotional-opportunity mechanics |
 | Healthy Families and Workplaces Act | Colo. Rev. Stat. § 8-13.3-401 et seq. | Paid sick leave accrual and use; public-health emergency supplemental leave |
-| FAMLI | Colo. Rev. Stat. § 8-13.3-501 et seq. | Colorado Paid Family and Medical Leave Insurance program — employer and employee contributions; wage-replacement benefit for family and medical leave <!-- needs-research: verify current FAMLI contribution rate and weekly benefit cap --> |
+| FAMLI | Colo. Rev. Stat. § 8-13.3-501 et seq. | Colorado Paid Family and Medical Leave Insurance program — employer and employee contributions; wage-replacement benefit for family and medical leave (for 2026: 0.88% total premium, split 50/50 between employer and employee, with employers of 9 or fewer exempt from the employer share; maximum weekly benefit $1,381.45 for claims through June 30, 2026 and $1,448.02 for claims beginning July 1, 2026 — see [famli.colorado.gov](https://famli.colorado.gov/)) |
 
 ### Washington
 
 | Area | Statute / rule | Handbook obligation |
 | --- | --- | --- |
-| Paid Family & Medical Leave | RCW 50A | Employee and employer contributions; wage-replacement for family and medical leave; job-protection rights <!-- needs-research: verify current WA PFML contribution rate and weekly benefit cap --> |
+| Paid Family & Medical Leave | RCW 50A | Employee and employer contributions; wage-replacement for family and medical leave; job-protection rights (for 2026: 1.13% total premium, split ~71.43% employee / ~28.57% employer per ESD; maximum weekly benefit $1,647 — see [paidleave.wa.gov](https://paidleave.wa.gov/)) |
 | Sick leave | RCW 49.46.200–.210 | Statewide paid sick leave accrual and use rules |
-| Non-compete restrictions | RCW 49.62 | Non-competes enforceable only above a statutory earnings threshold, indexed annually; specific notice and consideration requirements. See [mod-103](../mod-103-employment-law-and-contract-design/) <!-- needs-research: verify current RCW 49.62 earnings threshold --> |
+| Non-compete restrictions | RCW 49.62 | Non-competes enforceable only above a statutory earnings threshold, indexed annually by L&I (for 2026: $126,858.83 for employees and $317,147.09 for independent contractors); specific notice and consideration requirements. Washington's 2025 amendments impose a full ban on noncompetition covenants effective June 30, 2027. See [mod-103](../mod-103-employment-law-and-contract-design/) |
 | Pay-range disclosure | RCW 49.58.110 | Wage-scale-and-benefits disclosure in job postings for employers with 15+ employees; internal-transfer / promotional-opportunity applications |
 
 ### Other states worth naming
@@ -154,7 +154,7 @@ Below are the additional jurisdictions where a US-based startup most often finds
 - **Oregon** — Oregon Family Leave Act (OFLA), Paid Leave Oregon, Workplace Fairness Act (NDA restrictions).
 - **Connecticut** — CT Paid Leave, sick leave, pay-range disclosure under CT Public Act 21-30.
 - **Washington, D.C.** — DC Universal Paid Leave, Accrued Sick and Safe Leave, Ban on Non-Compete Agreements Amendment Act.
-- **Maryland, Minnesota, Nevada, Rhode Island, Vermont, Maine, New Mexico, Michigan, Hawaii** — each has one or more of (a) paid sick leave, (b) paid family leave, (c) pay-transparency, (d) non-compete restrictions worth handbook attention. <!-- needs-research: full jurisdiction-by-jurisdiction cataloguing of state and local supplement obligations is a rolling exercise; do not rely on the list above as complete. -->
+- **Maryland, Minnesota, Nevada, Rhode Island, Vermont, Maine, New Mexico, Michigan, Hawaii** — each has one or more of (a) paid sick leave, (b) paid family leave, (c) pay-transparency, (d) non-compete restrictions worth handbook attention. The list is illustrative, not exhaustive; jurisdiction-by-jurisdiction cataloguing of state and local supplement obligations is a rolling exercise and should be refreshed with counsel annually.
 
 ## The standard chapter structure
 

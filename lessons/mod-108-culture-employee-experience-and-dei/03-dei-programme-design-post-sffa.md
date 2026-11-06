@@ -28,10 +28,10 @@ The relevant follow-on authority the operator should track:
 | **SFFA v. Harvard / UNC**, 600 U.S. 181 | 2023 | Race-conscious admissions under 14th Amendment and Title VI | Direct holding is admissions-only; reasoning is the basis for the post-SFFA challenge wave. |
 | **Muldrow v. City of St. Louis**, 601 U.S. 346 | 2024 | Title VII "adverse employment action" standard | Lowered the threshold for what counts as an actionable Title VII injury from "significant" harm to "some harm" — expands the surface for reverse-discrimination and DEI-related Title VII challenges. |
 | **American Alliance for Equal Rights v. Fearless Fund**, 103 F.4th 765 (11th Cir. 2024) | 2024 | Section 1981 challenge to a race-restricted grant programme | Confirmed that section 1981 reaches race-restricted private grant contracts; race-restricted funding programmes carry live litigation risk. |
-| **Ames v. Ohio Department of Youth Services** | 2025 | Title VII majority-plaintiff standard | Removed the "background circumstances" heightened prima-facie test that some circuits had applied to majority-group plaintiffs; equalises the Title VII prima-facie bar. <!-- needs-research: confirm citation and holding of Ames v. Ohio DYS current-term Supreme Court decision and the specific circuit-split it resolved. --> |
+| **Ames v. Ohio Department of Youth Services**, 605 U.S. 303 (2025) | 2025 | Title VII majority-plaintiff standard | Unanimous decision (Jackson, J.) holding that the Title VII disparate-treatment standard does not vary based on whether the plaintiff is a member of a majority group — rejecting the "background circumstances" heightened prima-facie test that the Sixth Circuit (and several other circuits) had applied to majority-group plaintiffs, and equalising the Title VII prima-facie bar. |
 | **Section 1981 challenge wave** | 2023– | Fellowship / mentorship / grant programmes with race-based eligibility | A growing docket of preliminary-injunction motions and settlements against explicit race-based eligibility in private-sector programmes. |
-| **State anti-DEI statutes** | 2023– | Public-employer DEI restrictions in several states | Currently applies primarily to state universities and public employers; private-employer reach is being tested. <!-- needs-research: enumerate current state anti-DEI statutes and identify which have private-employer application; the list is moving. --> |
-| **2025 federal executive orders on DEI** | 2025 | Federal-contractor DEI programme restrictions; OFCCP jurisdiction changes | Materially altered the federal-contractor operating environment and OFCCP posture. <!-- needs-research: confirm current EO 11246 status, DOL / OFCCP enforcement posture, and federal-contractor certification requirements after the 2025 executive orders before quoting current-year specifics. --> |
+| **State anti-DEI statutes and AG enforcement** | 2023– | Public-employer DEI restrictions in several states; growing private-employer enforcement posture | Applies primarily to state universities and public employers, with an active second front of state-AG enforcement letters and opinions targeting private-employer DEI programmes (e.g., 2026 Texas and Florida AG opinions). The statute-by-statute and AG-posture inventory is moving and should be refreshed with counsel. |
+| **EO 14173 and the 2026 OFCCP final rules** | 2025–2026 | Federal-contractor DEI programme restrictions; OFCCP jurisdiction changes | EO 14173 (Jan 21, 2025) revoked EO 11246 and required federal contractors to certify compliance with federal anti-discrimination law; the Acting Secretary of Labor directed OFCCP to cease all EO 11246 enforcement and close pending reviews. On Aug 21, 2026, OFCCP published three final rules rescinding the EO 11246 implementing regulations. Section 503 (disability) and VEVRAA (veterans) AAP obligations remain in modified form. See the Congressional Research Service LSB11268 and OFCCP rulemaking record. |
 
 **The operating takeaway.** The reasoning of SFFA has been extended, by the plaintiff bar and by receptive courts, well beyond the admissions context in which it was decided. The rules that are becoming clear for private employers:
 
@@ -74,7 +74,7 @@ Traditional design: a supplier programme with an explicit race-, gender-, or vet
 - **The corporation collects supplier-diversity dimension data as a reporting metric** — self-reported certifications (minority business enterprise, women-owned business, LGBTQ-owned, service-disabled veteran-owned, disability-owned) are recorded and rolled up into the annual supplier-diversity report.
 - **Contracting decisions are made on the standard evaluation criteria** (price, quality, capability, terms), not on demographic identity of the supplier.
 - **Programmes that build supplier pipelines** — supplier-development programmes, small-business outreach, capability-building programmes — remain appropriate provided eligibility for the *contract award* is demographic-blind.
-- **Federal-contract supplier-diversity requirements** are a separate question and depend on the corporation's federal-contractor status and the current federal-contractor rules. <!-- needs-research: confirm current federal-contractor supplier-diversity requirements after 2025 EO changes; the picture has moved. -->
+- **Federal-contract supplier-diversity requirements** are a separate question and depend on the corporation's federal-contractor status and the current federal-contractor rules. The EO 11246–era race- and sex-based subcontracting affirmative-action obligations have been wound down following EO 14173 and the 2026 OFCCP rescissions; the Small Business Administration small-business and socioeconomic subcontracting regimes (8(a), SDB, WOSB, SDVOSB, HUBZone) under FAR Part 19 remain a distinct source of federal-contractor obligations. Confirm current posture with contracts counsel before relying on pre-2025 templates.
 
 ### Hiring-panel diversity norms
 
@@ -139,7 +139,7 @@ Most technology-company employees map to categories 1.1, 1.2, and 2. Category as
 
 **Race / ethnicity categories.** The EEO-1 uses seven race / ethnicity categories, all self-identified: Hispanic or Latino; White; Black or African American; Native Hawaiian or Other Pacific Islander; Asian; American Indian or Alaska Native; and Two or More Races.
 
-**Submission window.** The EEOC opens the reporting window annually and publishes the deadline. <!-- needs-research: confirm current-year EEO-1 submission window dates before publishing internal deadlines. -->
+**Submission window.** The EEOC opens the reporting window annually and publishes the deadline on the agency's data-collections page; confirm current-year dates there before publishing internal deadlines. Note also that in May 2026 the EEOC submitted a proposal to OIRA to rescind the EEO-1 reporting requirement, but until any rescission is finalised the requirement remains in force and employers should continue preparing to file.
 
 **State-level equivalents.** Several states have independent pay-data and workforce-demographic reporting regimes that layer on top of the federal EEO-1:
 
@@ -150,7 +150,7 @@ Most technology-company employees map to categories 1.1, 1.2, and 2. Category as
 | **Massachusetts** | Chapter 141 of the Acts of 2024 (wage data reporting) | Annual wage data report to the Massachusetts Executive Office of Labor and Workforce Development | 100+ employees in Massachusetts |
 | **New York City** | Local Law 32 of 2022 (pay transparency) | Pay-range posting in job advertisements; separate from workforce-demographic reporting | 4+ employees |
 
-<!-- needs-research: confirm current-year filing deadlines, thresholds, and covered-employer definitions for each state pay-data / wage-data statute; the state landscape moves annually. -->
+Filing deadlines, thresholds, and covered-employer definitions under each state pay-data / wage-data statute are published by the administering agency (CRD in California, IDOL in Illinois, EOLWD in Massachusetts) and change annually; confirm against the agency's current guidance before publishing internal deadlines.
 
 **Retention discipline.**
 
@@ -162,7 +162,7 @@ Most technology-company employees map to categories 1.1, 1.2, and 2. Category as
 
 The **Office of Federal Contract Compliance Programs** (OFCCP), within the U.S. Department of Labor, historically administered the affirmative-action-plan (AAP) obligations that attached to federal contractors under Executive Order 11246 and two related statutes.
 
-<!-- needs-research: confirm current EO 11246 status and OFCCP jurisdiction after the 2025 executive orders before quoting current-year enforcement posture. The 2025 executive orders materially altered OFCCP jurisdiction — in particular the revocation or modification of EO 11246, the wind-down of race- and sex-based affirmative-action-plan requirements for federal contractors, and the continuation of the Section 503 (disability) and VEVRAA (veterans) AAP requirements. The specifics as of the current cycle should be confirmed against OFCCP guidance and DOL rulemaking before this section is used as an operating reference. -->
+EO 14173 (Jan 21, 2025) revoked EO 11246; the Acting Secretary of Labor directed OFCCP to cease all EO 11246 investigative and enforcement activity and to close open reviews. On Aug 21, 2026, OFCCP published three coordinated final rules rescinding the EO 11246 implementing regulations and narrowing Section 503 obligations; VEVRAA AAP obligations also remain in modified form. The Section 503 (disability) and VEVRAA (veterans) AAP regimes continue, albeit in revised form. Confirm the current posture against OFCCP guidance and DOL rulemaking before this section is used as an operating reference.
 
 The historical framework, which the operator should still understand because portions remain and because the operating cadence is instructive:
 
