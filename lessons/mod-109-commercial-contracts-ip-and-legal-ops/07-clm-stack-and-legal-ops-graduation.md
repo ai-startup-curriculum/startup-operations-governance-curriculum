@@ -87,31 +87,31 @@ The commonly-evaluated vendors, with rough fit at startup stages:
 
 ### Ironclad
 
-Enterprise-grade CLM with a sophisticated workflow builder and strong Salesforce integration. Commonly selected at Series-B or Series-C when the corporation has enough contract volume, deal-desk headcount, and Salesforce maturity to exploit the workflow depth. Requires a real implementation programme (see below) and a dedicated CLM operator. Pricing sits at the upper end of the mid-market band. The AI-assisted redline review capabilities are marketed heavily; treat marketing claims as marketing and evaluate against the corporation's own redlines during POC. <!-- needs-research -->
+Enterprise-grade CLM with a configurable workflow builder and a [native Salesforce integration](https://ironcladapp.com/product/integrations/salesforce). Commonly selected at Series-B or Series-C when the corporation has enough contract volume, deal-desk headcount, and Salesforce maturity to exploit the workflow depth. Requires a real implementation programme (see below) and a dedicated CLM operator. Pricing is not published publicly and is heavily negotiated. The AI-assisted redline review capabilities are marketed heavily; treat marketing claims as marketing and evaluate against the corporation's own redlines during POC.
 
 ### LinkSquares
 
-Analytics- and metadata-driven CLM with strength in post-signature obligation tracking and contract-repository search. Historically positioned as a strong "second product after the shared Drive" for corporations that need to get their existing contract portfolio under management quickly. Weaker native workflow builder than Ironclad but faster to stand up for a repository-first use case. <!-- needs-research -->
+Analytics- and metadata-driven CLM marketed around post-signature [obligation tracking and a centralised contract repository](https://linksquares.com/contract-repository/). Often positioned as a quick way to bring an existing contract portfolio under management. The native workflow builder is less deep than Ironclad's; the trade-off is faster time-to-value for a repository-first use case.
 
 ### Concord
 
-Mid-market CLM with a simpler workflow model and a faster time-to-value for smaller legal teams. Common at Series-A / early Series-B where the corporation needs the operational discipline but does not yet have the deal volume or complexity to justify enterprise-tier tooling. <!-- needs-research -->
+Mid-market CLM positioned for smaller legal teams that need operational discipline without enterprise-tier complexity. Often chosen at Series-A / early Series-B where the corporation does not yet have the deal volume or complexity to justify enterprise-tier tooling.
 
 ### DocuSign CLM
 
-Bolt-on CLM to the DocuSign e-signature product that many corporations already use. Procurement-team-friendly because the DocuSign relationship is often owned by procurement or IT, and the addition of the CLM extends an existing vendor rather than adding a new one. Historically the CLM component was a distinct acquisition (SpringCM) and its integration with the core e-signature product has evolved. <!-- needs-research -->
+Bolt-on CLM to the DocuSign e-signature product that many corporations already use. Procurement-team-friendly because the DocuSign relationship is often owned by procurement or IT, and the addition of the CLM extends an existing vendor rather than adding a new one. The CLM component originated from DocuSign's [2018 acquisition of SpringCM](https://www.sec.gov/Archives/edgar/data/0001261333/000119312518233183/d572391dex991.htm) and its integration with the core e-signature product has evolved over time.
 
 ### Contract Logix
 
-Mid-market CLM with strong metadata and reporting depth. Less commonly selected in startup-SaaS but frequently seen in traditional-industry buyers. <!-- needs-research -->
+Mid-market CLM marketed on metadata and reporting depth. Less common in startup-SaaS buyer evaluations.
 
 ### Icertis
 
-Enterprise / Fortune-500 CLM. Typically too heavy for startups — the implementation programme requires a dedicated legal-tech team, the licence cost is well above the mid-market, and the feature surface targets contracting patterns (multinational, multi-currency, multi-language, government-contracting) that a startup does not have. If a startup is evaluating Icertis, the evaluation is almost always a mistake driven by an executive who came from a Fortune-500 background. <!-- needs-research -->
+Enterprise / Fortune-500 CLM. Typically too heavy for startups — the implementation programme requires a dedicated legal-tech team, the licence sits above mid-market tiers, and the feature surface targets contracting patterns (multinational, multi-currency, multi-language, government-contracting) that a startup does not have. If a startup is evaluating Icertis, the evaluation is almost always a mistake driven by an executive who came from a Fortune-500 background.
 
 ### Agiloft
 
-Highly configurable CLM with strong procurement / buy-side orientation. The configuration surface is a strength (nearly any workflow can be built) and a weakness (the corporation has to build it). Common in procurement-led CLM selections. <!-- needs-research -->
+Highly configurable CLM often selected for procurement / buy-side use cases. The configuration surface is a strength (nearly any workflow can be built) and a weakness (the corporation has to build it).
 
 ### Native / spreadsheet + Drive
 
@@ -121,7 +121,7 @@ The corporation should evaluate two or three vendors head-to-head during a proof
 
 ## The CLM-onboarding programme
 
-Buying a CLM is not the same as implementing one. The implementation programme is a project — typically three to six months of active work, with a twelve-month maturity curve before the CLM is producing its full value. <!-- needs-research --> The programme's work streams are:
+Buying a CLM is not the same as implementing one. The implementation programme is a project — several months of active work, with a longer maturity curve before the CLM is producing its full value. The programme's work streams are:
 
 ### Template migration
 
@@ -150,7 +150,7 @@ Every executed contract in the corporation's history — from the earliest Drive
 - **Security approver** (the corporation's signer for the security addendum or DPA).
 - **Key obligations** extracted as separate records (MFN, auto-renewal notice, SOC 2 delivery, insurance certificate delivery, DPA sub-processor updates, price-adjustment mechanics, bespoke commitments).
 
-The extraction step is where the CLM's metadata-extraction capability earns its keep. Vendors variously offer AI-assisted extraction, template-matching extraction, and pure-manual entry. Whichever mechanism is used, every historical contract needs a human review pass — automated extraction hallucinates dates and misreads notice windows in ways that are unsafe to rely on for obligation triggers. <!-- needs-research -->
+The extraction step is where the CLM's metadata-extraction capability earns its keep. Vendors variously offer AI-assisted extraction, template-matching extraction, and pure-manual entry. Whichever mechanism is used, every historical contract needs a human review pass — automated extraction can misread dates and notice windows in ways that are unsafe to rely on for obligation triggers.
 
 Ownership: legal-ops manager, with contract paralegals or outside vendors executing the review pass.
 
@@ -168,7 +168,7 @@ Ownership: head of legal ops for programme design; individual functional leads f
 
 ### 30 / 60 / 90-day success criteria
 
-The implementation is measured against a published success-criteria checklist. Illustrative milestones (the actual numbers should be tuned to the corporation's context — <!-- needs-research -->):
+The implementation is measured against a published success-criteria checklist. Illustrative milestones (the actual numbers should be tuned to the corporation's context):
 
 - **Day 30.** Templates migrated. Clause library imported. Sell-side integration to Salesforce live. First ten sell-side deals executed through the CLM end-to-end.
 - **Day 60.** Historical-contract import complete (at least back through the current fiscal year and through all currently-active contracts). Obligations tracker populated. Buy-side workflow live for procurement. Deal-desk running triage inside the CLM rather than in a separate spreadsheet.
@@ -229,7 +229,7 @@ The legal-ops team grows to two to four people. Typical composition: GC or head 
 
 ### Series C+
 
-Full legal-ops. Typical composition: GC; one or more deputy GCs (by domain — commercial, employment, privacy, corporate); dedicated deal-desk team (analysts and manager); dedicated CLM operator; legal-tech engineer (integrations, BI, workflow); outside-counsel-panel manager; paralegal / contract-manager team. Legal-ops is a first-class corporate function reporting into a GC-level executive, with its own budget, its own metrics, and its own OKRs. Headcount range at Series C typically five to fifteen depending on the corporation's regulatory footprint and international presence, and can grow well beyond fifteen at pre-IPO scale. <!-- needs-research -->
+Full legal-ops. Typical composition: GC; one or more deputy GCs (by domain — commercial, employment, privacy, corporate); dedicated deal-desk team (analysts and manager); dedicated CLM operator; legal-tech engineer (integrations, BI, workflow); outside-counsel-panel manager; paralegal / contract-manager team. Legal-ops is a first-class corporate function reporting into a GC-level executive, with its own budget, its own metrics, and its own OKRs. Headcount at Series C varies widely depending on the corporation's regulatory footprint and international presence, and typically grows further at pre-IPO scale.
 
 ## Legal-ops adjacent tooling
 
@@ -238,7 +238,7 @@ The CLM sits at the centre of the legal-ops tooling stack, but a mature function
 - **E-signature.** DocuSign, Adobe Sign, Dropbox Sign. Either standalone (integrated with the CLM) or embedded (CLM-native e-signature). The corporation should have a single authoritative e-signature account, provisioned via IdP, retiring individual salesperson accounts entirely.
 - **NDA / clickwrap management.** Ironclad Clickwrap and equivalents automate the intake and signature of one-way NDAs and clickwrap acceptance flows. Useful once the corporation is signing dozens of inbound NDAs per month (candidates, contractors, investors, partners). Less useful at earlier stages where the volume does not justify the licence.
 - **Matter management.** Legal Tracker, Onit, SimpleLegal. Manages outside-counsel matters, budgets, and invoices. Typically a Series-C purchase; at earlier stages a spreadsheet plus the CLM's own metadata is sufficient. See [chapter 08](./08-in-house-vs-outside-counsel-decision-framework.md) for the outside-counsel-management framework these tools support.
-- **E-billing.** Same category as matter management (often the same product). Enforces outside-counsel billing guidelines (block billing prohibited, staffing tier caps, discount tables). Real ROI kicks in when outside-counsel spend crosses roughly seven figures annually. <!-- needs-research -->
+- **E-billing.** Same category as matter management (often the same product). Enforces outside-counsel billing guidelines (block billing prohibited, staffing tier caps, discount tables). Real ROI kicks in once outside-counsel spend becomes material enough that manual line-by-line invoice review stops being feasible.
 - **Spend management.** Coupa, Ramp, Airbase for procurement-side spend; overlaps with the buy-side CLM workflow and with the vendor-onboarding process in [chapter 03](./03-vendor-contract-suite-and-onboarding-workflow.md). Ownership boundary: spend management typically owned by finance / procurement, with legal-ops consuming the vendor-status feed for CLM records.
 - **IP management / docketing.** Anaqua, PatSnap, IPfolio (now part of Clarivate) and equivalents. Manages patent portfolios, trademark portfolios, and the associated docketing (renewal deadlines, office-action deadlines, opposition windows). Relevant when the corporation has enough IP filings — typically double-digit patent applications or a broad trademark programme — to require a dedicated tracker. Prior to that, outside IP counsel's own docketing system is sufficient.
 - **Board portal.** Diligent, Nasdaq Boardvantage, and equivalents. Manages board materials, board consents, and corporate records. Cross-references [mod-111](../mod-111-corporate-governance-board-operations-and-officer-duties/) — the board portal is the operational surface for board operations and sits adjacent to the CLM but is not part of it. Ownership boundary: corporate secretary / GC for the board portal, with the CLM providing feeds for material contract disclosures.
@@ -260,13 +260,13 @@ The recurring ways a CLM programme underperforms:
 
 A Series-B B2B-SaaS corporation, roughly 150 employees, ARR in the mid-tens-of-millions, closing approximately eighty deals per month across a mix of mid-market and enterprise segments. Contract volume has passed the Drive-plus-DocuSign inflection point; the head of sales is escalating cycle-time complaints weekly; the head of finance has flagged three auto-renewal misses in the prior quarter costing the corporation roughly $400k in unforced retention; the Series-C diligence work is expected to open in nine months and the diligence-manifest exercise on the current stack would take three to four weeks. The corporation has a GC (hired late Series A), one legal-ops manager, and a deal-desk analyst who splits time with RevOps.
 
-**Selection.** The corporation runs a six-week POC against two mid-market CLMs — Ironclad and LinkSquares — using its own templates, its own playbook, and a representative slice of its historical portfolio. The evaluation dimensions weighted highest are Salesforce integration (given the RevOps overlap on deal-desk), obligations-tracker workflow (given the recent auto-renewal misses), and analytics depth (given the near-term diligence exercise). The corporation selects Ironclad, primarily on workflow builder and Salesforce integration, and secondarily because the deal-desk analyst has prior Ironclad experience. Annual licence cost lands in the mid-six-figure band. <!-- needs-research --> LinkSquares was the runner-up and would have been the selection had obligations-tracker capability been weighted higher than workflow.
+**Selection.** The corporation runs a six-week POC against two mid-market CLMs — Ironclad and LinkSquares — using its own templates, its own playbook, and a representative slice of its historical portfolio. The evaluation dimensions weighted highest are Salesforce integration (given the RevOps overlap on deal-desk), obligations-tracker workflow (given the recent auto-renewal misses), and analytics depth (given the near-term diligence exercise). The corporation selects Ironclad, primarily on workflow builder and Salesforce integration, and secondarily because the deal-desk analyst has prior Ironclad experience. The annual licence cost is negotiated deal-by-deal and is not quoted here. LinkSquares was the runner-up and would have been the selection had obligations-tracker capability been weighted higher than workflow.
 
 **Staffing.** The implementation programme is staffed with the existing GC (5% of time as executive sponsor), the legal-ops manager (60% of time as programme lead), the deal-desk analyst (30% of time on template migration and clause library), and a contract-paralegal hired specifically to run the historical-contract import (100% of time for four months). A legal-tech engineer is not hired; the RevOps team owns the Salesforce integration and the data-warehouse export.
 
-**Timeline.** Implementation kicks off in Q1. Templates migrated by Day 30. Clause library imported by Day 45. Historical-contract import — approximately 900 active contracts and 2,100 total including terminated — completes by Day 90, with the paralegal running the review pass and the legal-ops manager approving obligations extraction. Salesforce integration live at Day 60. Obligations tracker populated at Day 100. IdP integration and personal-DocuSign retirement complete at Day 120. Reporting dashboards live at Day 150. Total elapsed implementation: five months, at the tighter end of the three-to-six-month typical range. <!-- needs-research -->
+**Timeline.** Implementation kicks off in Q1. Templates migrated by Day 30. Clause library imported by Day 45. Historical-contract import — approximately 900 active contracts and 2,100 total including terminated — completes by Day 90, with the paralegal running the review pass and the legal-ops manager approving obligations extraction. Salesforce integration live at Day 60. Obligations tracker populated at Day 100. IdP integration and personal-DocuSign retirement complete at Day 120. Reporting dashboards live at Day 150. Total elapsed implementation: approximately five months, at the tighter end of the typical multi-month range.
 
-**Twelve-month outcomes.** Contract cycle time falls from a median of 21 business days to a median of 8 business days for standard deals and 14 business days for non-standard. Redline count per deal falls from a median of 4.1 rounds to 2.6 rounds. Fallback-position-hit-rate data becomes measurable for the first time and drives the Q4 playbook revision, which moves two clauses (MFN and consequential-damages waiver) to different acceptable positions based on observed loss data. Post-signature obligation adherence rises from an estimated 60% (auto-renewal notices, SOC 2 delivery, insurance certificates) to a measured 96%. The Series-C diligence manifest is produced from the CLM in two business days rather than three weeks; the diligence lead comments favourably on the operational maturity. The corporation's first meaningful additional legal hire — a commercial deputy GC — joins in Q4, inheriting a functioning CLM and a running deal-desk, and focuses on substantive commercial-legal work rather than on operational triage. <!-- needs-research -->
+**Twelve-month outcomes** (illustrative figures only, from this hypothetical corporation's ex-ante and ex-post measurement). Contract cycle time falls materially for standard and non-standard deals. Median redline count per deal declines. Fallback-position-hit-rate data becomes measurable for the first time and drives a subsequent playbook revision, moving a couple of clauses (for example, MFN and consequential-damages waiver) to different acceptable positions based on observed loss data. Post-signature obligation adherence rises sharply versus the pre-CLM baseline (auto-renewal notices, SOC 2 delivery, insurance certificates). The Series-C diligence manifest is produced from the CLM in days rather than weeks; the diligence lead comments favourably on the operational maturity. The corporation's first meaningful additional legal hire — a commercial deputy GC — joins in Q4, inheriting a functioning CLM and a running deal-desk, and focuses on substantive commercial-legal work rather than on operational triage.
 
 ## Ownership boundary reminders
 
