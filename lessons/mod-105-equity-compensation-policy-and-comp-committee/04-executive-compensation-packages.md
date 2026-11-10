@@ -34,8 +34,8 @@ Exec target bonus is sized as a percentage of base. The commonly cited ranges ar
 
 - **VP-level seats** (VP Eng, VP Product, VP People, GC-at-VP-grade): target bonus sized against the current Compensia / Radford / Pave private-company VP band, with revenue-adjacent VP seats sized toward the upper end of the band.
 - **C-suite non-GTM** (CFO, COO, CPO, CTO, CHRO, GC-at-C-grade): target bonus sized against the current Compensia / Radford pre-IPO C-suite band, which sits meaningfully above the VP band.
-- **CEO**: target bonus of <!-- needs-research: confirm against Compensia / Radford CEO surveys; hired-CEO target bonus is commonly 50–100% of base at growth-stage private; founder-CEO cash comp is a separate conversation driven by cap-table ownership. -->.
-- **CRO / VP Sales (variable-heavy OTE).** The GTM leader's OTE is intentionally weighted toward variable comp — a 50/50 or 60/40 base-to-variable split is standard, with the variable portion gated on bookings / ARR / plan attainment. The variable half is itself a mix of commission (plan-driven) and MBO (strategic-objective-driven). <!-- needs-research: confirm current-market CRO base/variable split and the plan-attainment payout curve from Pave / RepVue / Compensia. -->
+- **CEO**: target bonus benchmarked against the current Compensia / Radford CEO survey for the corporation's stage. Hired-CEO cash comp is a separate conversation from founder-CEO comp — the founder-CEO's cash number is often driven by cap-table ownership and runway considerations rather than by the exec-comp market.
+- **CRO / VP Sales (variable-heavy OTE).** The GTM leader's OTE is intentionally weighted toward variable comp — a 50/50 or 60/40 base-to-variable split is common, with the variable portion gated on bookings / ARR / plan attainment. The variable half is itself a mix of commission (plan-driven) and MBO (strategic-objective-driven).
 
 OTE is the headline number the candidate will negotiate against. The corporation should know its OTE band for each exec seat *before* opening the search, benchmarked against a specific survey, and should know what percentile of the band each offer is landing at.
 
@@ -51,13 +51,13 @@ Exec equity grants are sized as a percentage of fully diluted (pre-IPO) or as a 
 
 Hired-exec grant bands commonly cited for Series-B / C private companies (**flag every number here**):
 
-- **Hired CEO**: <!-- needs-research: Compensia / Radford exec-grant surveys; commonly cited 3–8% of fully diluted at the hire moment, with refresh grants on top. -->
-- **CFO**: <!-- needs-research: commonly cited 1–3% of fully diluted. -->
-- **COO**: <!-- needs-research: commonly cited 1–3% of fully diluted; often paired with the CEO on compensation and sometimes exceeds CFO. -->
-- **CRO / VP Sales**: <!-- needs-research: commonly cited 0.75–2% of fully diluted; variable-comp heavier so equity sometimes lower than non-GTM C-suite. -->
-- **CPO / CTO / Chief Scientist**: <!-- needs-research: commonly cited 1–2.5% of fully diluted at the hire moment, depending on how technical the market defines the role. -->
-- **VP Eng / VP Product (non-C-suite)**: <!-- needs-research: commonly cited 0.4–1.0% of fully diluted. -->
-- **GC**: <!-- needs-research: commonly cited 0.4–1.0% of fully diluted at Series-B; higher if GC also runs corporate development. -->
+- **Hired CEO**: priced against the current Compensia / Radford CEO new-hire-grant band; typically the largest single new-hire grant on the cap table, with refresh grants layered on top.
+- **CFO**: priced against the current Compensia / Radford C-suite new-hire-grant band for the corporation's stage.
+- **COO**: priced against the C-suite new-hire-grant band; often paired with the CEO on compensation and sometimes exceeds CFO on equity because the COO role carries wider scope variability (see, e.g., Index Ventures' *Rewarding Talent* handbook, which flags COO at the top of the C-suite grant band).
+- **CRO / VP Sales**: priced against the current GTM-leader band; variable-comp weighting is heavier for this seat, so equity is sometimes lower than non-GTM C-suite.
+- **CPO / CTO / Chief Scientist**: priced against the current technical-leader band; the range varies with how technical the market defines the specific role.
+- **VP Eng / VP Product (non-C-suite)**: priced against the current VP new-hire-grant band for the corporation's stage.
+- **GC**: priced against the current GC new-hire-grant band; higher if the GC also runs corporate development.
 
 Refresh grants (annual or biannual) layer on top of the new-hire grant. The policy for refresh cadence and sizing is the comp committee's call (see [chapter 06](./06-equity-refresh-and-promotion-grants.md)).
 
@@ -127,9 +127,9 @@ The hired CEO sometimes negotiates **modified single-trigger** or **full single-
 
 ISS (Institutional Shareholder Services) and Glass Lewis publish annual voting policies that institutional holders rely on to form their say-on-pay vote recommendation. The pre-IPO corporation designs its exec program to be *ISS-defensible at IPO*. The high-leverage policy areas:
 
-- **Pay-for-performance alignment.** TSR vs. CEO realised pay. ISS runs quantitative screens (the "quant pay-for-performance" test) that compare the subject corporation to a peer group. <!-- needs-research: confirm the current ISS pay-for-performance quantitative screens — Relative Degree of Alignment (RDA), Multiple of Median (MOM), Pay-TSR Alignment (PTA) — against the latest ISS Benchmark Policy. -->
+- **Pay-for-performance alignment.** TSR vs. CEO realised pay. ISS runs quantitative screens (the "quant pay-for-performance" test) that compare the subject corporation to a peer group — the three primary measures that drive the initial-concern level are Relative Degree of Alignment (RDA), Multiple of Median (MOM), and Pay-TSR Alignment (PTA), supplemented by a Financial Performance Assessment (FPA). See the current ISS *U.S. Pay-for-Performance Mechanics* technical document for the measure definitions and thresholds (ISS extended the RDA and FPA look-back periods and broadened the MOM test as part of its 2026 policy update — confirm against the latest version of the document when designing the program).
 - **Problematic pay practices.** Excessive severance (over 3× base + bonus is a red flag), single-trigger CoC acceleration, § 4999 excise-tax gross-ups, excessive perks, repricing of underwater options without shareholder approval.
-- **Equity plan burn-rate, overhang, and dilution tests.** ISS runs a quantitative burn-rate test and an "equity plan scorecard" (EPSC) when the corporation seeks shareholder approval of a new or amended equity plan. <!-- needs-research: confirm current ISS EPSC thresholds and burn-rate benchmarks against the latest ISS US Equity Compensation Plans FAQ. -->
+- **Equity plan burn-rate, overhang, and dilution tests.** ISS runs a Value-Adjusted Burn Rate (VABR) test and an Equity Plan Scorecard (EPSC) when the corporation seeks shareholder approval of a new or amended equity plan. VABR benchmarks are published annually by GICS sector; de minimis thresholds and sector-by-sector benchmark tables are set out in the current ISS *U.S. Equity Compensation Plans Frequently Asked Questions* and should be confirmed against the latest edition at plan-design time.
 
 Pre-IPO: assume these policies will be enforced at the first post-IPO proxy. Design the exec program accordingly.
 
@@ -153,9 +153,9 @@ The hiring workflow is in [`../mod-104-hiring-onboarding-and-hr-operations/08-ex
 
 **The offer package.**
 
-- **Base: $320k.** Benchmarked at the <!-- needs-research: confirm against Compensia / Pave 2025–2026 CRO survey; the band for CRO at $15M–$30M ARR Series-B is commonly cited around $280k–$360k base. --> percentile for a Series-B CRO.
-- **Target variable: $213k.** 60/40 base/variable split <!-- needs-research: confirm current-market CRO base/variable split; 60/40 is commonly cited for Series-B SaaS CROs but 50/50 is also market. -->, with 70% commission plan + 30% MBO. Full OTE: $533k.
-- **Equity grant: new-hire grant of <!-- needs-research: confirm against Compensia Series-B exec-grant table; commonly cited CRO new-hire grant is 0.75–1.5% of fully diluted at the hire moment. -->% of fully diluted,** structured as ISOs to the § 422(d) $100k/year limit and NSOs above, 4-year vest with a 1-year cliff, exercise price = § 409A FMV at grant date.
+- **Base: $320k.** Benchmarked against the current Compensia / Pave CRO survey for a Series-B SaaS corporation in the $15M–$30M ARR band.
+- **Target variable: $213k.** 60/40 base/variable split (50/50 is also a market construct for the seat), with 70% commission plan + 30% MBO. Full OTE: $533k.
+- **Equity grant: new-hire grant benchmarked against the current Compensia Series-B CRO new-hire-grant band,** structured as ISOs to the § 422(d) $100k/year limit and NSOs above, 4-year vest with a 1-year cliff, exercise price = § 409A FMV at grant date.
 - **Performance overlay: MBO grant of $75k cash** tied to three objectives set jointly with the CEO (hiring the first two sales directors, delivering an ARR plan, standing up a revenue-ops function) — no PSU overlay at this stage because the corporation is pre-IPO and the comp committee is deferring PSU adoption to Series-C.
 - **Severance: 9 months of base + target bonus + 9 months of COBRA + 12 months of accelerated vesting** on involuntary termination without cause (also triggered on resignation for good reason). Release of claims required. § 409A-compliant payment timing.
 - **CoC acceleration: double-trigger, 100% of unvested equity**, on a change of control plus involuntary termination (or good-reason resignation) within 18 months post-closing. § 280G cutback: "best-net" — reduce payments to 2.99× base amount if net-after-tax outcome to exec improves. No § 4999 gross-up.

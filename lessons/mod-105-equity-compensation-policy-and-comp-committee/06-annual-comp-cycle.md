@@ -36,17 +36,17 @@ For a June fiscal-year-end, the cycle shifts into Q3; for a September fiscal-yea
 
 ### The pre-S-1 shift to Q4
 
-Pre-S-1 corporations frequently shift the comp cycle to Q4 even without changing the fiscal year, to align with proxy-season timing and the compensation disclosure obligations that attach once the corporation becomes an SEC registrant. The CD&A (Compensation Discussion and Analysis) in the proxy statement requires a stable prior-year comp record for the named executive officers; aligning the cycle to Q4 means the record is final before the proxy drafting window opens. <!-- needs-research: confirm current SEC guidance on CD&A record-stability expectations and the typical proxy-drafting timeline for a newly public corporation. -->
+Pre-S-1 corporations frequently shift the comp cycle to Q4 even without changing the fiscal year, to align with proxy-season timing and the compensation disclosure obligations that attach once the corporation becomes an SEC registrant. The CD&A (Compensation Discussion and Analysis) in the proxy statement — governed by Reg S-K Item 402(b) (17 C.F.R. § 229.402(b)) — requires disclosure of the material elements of the prior-year compensation decisions for each named executive officer; aligning the cycle to Q4 means the record is final before the proxy drafting window opens.
 
 ## Budget allocation
 
 ### Merit budget
 
-The merit budget is a percent-of-base-payroll pool that funds all merit increases across the corporation, allocated down to each function. A commonly cited Series-A / Series-B merit-budget range is <!-- needs-research: confirm current merit-budget benchmarks against WTW (Willis Towers Watson), Mercer, PayScale, and Radford compensation surveys; a defensible historical range is roughly 3-5% of base payroll for US tech corporations in a non-inflationary year, with hot-market or inflationary years running higher. -->. The merit budget is set by the CFO and Head of People, approved by the comp committee, and allocated to each function based on headcount and base-payroll weight.
+The merit budget is a percent-of-base-payroll pool that funds all merit increases across the corporation, allocated down to each function. Published general-industry benchmarks are a useful starting point: WTW's *Salary Budget Planning Report* for 2026 projects US merit-increase budgets at roughly 3.2% of base payroll on average, with total salary-increase budgets holding steady at approximately 3.5%, and Mercer, Payscale, and Radford publish comparable annual surveys. Tech-sector and hot-market years run higher. The merit budget is set by the CFO and Head of People, approved by the comp committee, and allocated to each function based on headcount and base-payroll weight.
 
 ### Equity refresh budget
 
-The equity refresh budget is a percent-of-fully-diluted pool authorised by the comp committee for the annual refresh programme. A commonly cited range at scale is <!-- needs-research: confirm current equity-refresh pool benchmarks; a defensible historical range is roughly 1-3% of fully diluted at Series-B through late stage, with IC and executive pools typically budgeted separately. -->. The sizing math — refresh grants as a percentage of original new-hire grant, scaled by level and performance — is covered in [chapter 03](./03-refresh-promotion-and-retention-grants.md); the cycle consumes the budget that chapter sizes.
+The equity refresh budget is a percent-of-fully-diluted pool authorised by the comp committee for the annual refresh programme. The pool is typically sized against the corporation's current benchmarking provider's refresh-pool survey (Radford, Compensia, or Pave) for the corporation's stage and sector, with IC and executive pools usually budgeted separately. The sizing math — refresh grants as a percentage of original new-hire grant, scaled by level and performance — is covered in [chapter 03](./03-refresh-promotion-and-retention-grants.md); the cycle consumes the budget that chapter sizes.
 
 ### Promotion budget
 
@@ -100,7 +100,7 @@ Same-level ICs who end up materially different on the comp band after several cy
 
 ## Grant notices and the 10b5-1 window
 
-At the private-company stage, grant notices issue immediately after comp-committee ratification and are recorded in the equity-admin platform. At the post-IPO stage, grant issuance must align with the corporation's trading-window policy and any applicable Rule 10b5-1 plans for executives. Equity grants to insiders issued inside a blackout window are a disclosure and Section 16 reporting problem; the cycle calendar should be set with the trading-window calendar in mind, and the comp committee should ratify at a date that lands grant issuance inside an open window. <!-- needs-research: confirm current SEC Rule 10b5-1 amendments (as applicable) and typical trading-window structures for newly public corporations. -->
+At the private-company stage, grant notices issue immediately after comp-committee ratification and are recorded in the equity-admin platform. At the post-IPO stage, grant issuance must align with the corporation's trading-window policy and any applicable Rule 10b5-1 plans for executives. The SEC's December 2022 amendments to Rule 10b5-1 (Release No. 33-11138) impose cooling-off periods on new or modified plans — the later of (i) 90 days after plan adoption or modification and (ii) two business days following the issuer's disclosure of financial results for the fiscal quarter in which the plan was adopted or modified, subject to a 120-day cap — for directors and Section 16 officers, together with new certification, overlapping-plan, and single-trade-plan restrictions. Equity grants to insiders issued inside a blackout window are a disclosure and Section 16 reporting problem; the cycle calendar should be set with the trading-window calendar in mind, and the comp committee should ratify at a date that lands grant issuance inside an open window.
 
 ## Documentation and audit trail
 
@@ -129,8 +129,8 @@ Northfield Robotics is a fictional Series-B corporation with ~140 employees, fis
 
 **Budget shape for the cycle.**
 
-- Merit budget: <!-- needs-research: confirm against current WTW / Mercer / Radford Series-B benchmarks; the 4% figure above reflects a commonly cited historical range for US tech at Series-B in a non-inflationary year. --> 4% of base payroll.
-- Equity refresh pool: <!-- needs-research: confirm against current Radford / Pave equity-refresh benchmarks for Series-B; the 2% figure above reflects a commonly cited historical range for fully-diluted refresh-pool consumption. --> 2% of fully diluted.
+- Merit budget: 4% of base payroll (illustrative; the comp committee sets the actual number against the current WTW / Mercer / Radford survey for the corporation's sector and stage, as discussed in the [Merit budget](#merit-budget) section above).
+- Equity refresh pool: 2% of fully diluted (illustrative; the comp committee sets the actual number against the current Radford / Pave Series-B refresh-pool benchmarks, as discussed in the [Equity refresh budget](#equity-refresh-budget) section above).
 - Promotion slate: 10 promotions pre-allocated across functions based on the Stage-3 leadership-calibration slate; final slate ratified at Stage 4.
 
 The entire cycle is 10 weeks from kickoff to grant-notice filing. Every artefact described in [documentation and audit trail](#documentation-and-audit-trail) is archived in the corporation's compliance folder with retention keyed to the cycle year.

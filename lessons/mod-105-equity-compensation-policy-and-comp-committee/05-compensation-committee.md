@@ -30,7 +30,7 @@ Independence is a continuous property, not a binary. At Series-A the committee (
 
 ## The committee charter
 
-The charter is a written document — approved by the full board and typically published on the corporation's investor-relations site at IPO — that defines the committee. Charter template structure and content standards are discussed in NACD, AICPA, and bar-association resources <!-- needs-research: cite specific NACD and AICPA compensation-committee charter templates and publication years. -->; the stock-exchange listing standards (NYSE § 303A.05(a) and Nasdaq Rule 5605(d)(1)) require the committee to have a written charter at listing.
+The charter is a written document — approved by the full board and typically published on the corporation's investor-relations site at IPO — that defines the committee. Charter template structure and content standards are discussed in governance-institute resources published by NACD, the Society for Corporate Governance, and the major corporate-law firms; the stock-exchange listing standards (NYSE § 303A.05(a) and Nasdaq Rule 5605(d)(1)) require the committee to have a written charter at listing.
 
 ### Required contents
 
@@ -48,7 +48,7 @@ A defensible comp-committee charter addresses, at minimum:
 
 ### Charter sources
 
-The template universe includes the NACD *Director's Handbook* series, the AICPA audit-and-governance resource library, the Society for Corporate Governance committee-charter benchmarks, and the public charters of recently-IPO'd companies in the corporation's peer set. <!-- needs-research: cite the current editions of NACD Director's Handbook on Compensation and the AICPA / Society for Corporate Governance comp-committee template materials. --> Many venture-stage corporations adopt a form charter from outside counsel at the Series-B board meeting that first establishes the committee, then revise toward the stock-exchange-compliant form as part of IPO-readiness work.
+The template universe includes the NACD *Director's Handbook* series, the Society for Corporate Governance committee-charter benchmarks, and the public charters of recently-IPO'd companies in the corporation's peer set. Many venture-stage corporations adopt a form charter from outside counsel at the Series-B board meeting that first establishes the committee, then revise toward the stock-exchange-compliant form as part of IPO-readiness work.
 
 ## Pre-IPO independence trajectory
 
@@ -73,7 +73,7 @@ In the twelve-to-eighteen months before S-1 filing, the committee reconstitutes 
 - **Dodd-Frank § 952 (15 U.S.C. § 78j-3)** directs the SEC to require stock exchanges to adopt enhanced compensation-committee independence standards.
 - **SEC Rule 10C-1 (17 C.F.R. § 240.10C-1)** implements § 952 by requiring the exchange standards to consider (i) the source of compensation of the director, including any consulting, advisory, or other fees paid by the company, and (ii) whether the director is affiliated with the company, a subsidiary, or an affiliate of a subsidiary.
 
-The exchanges allow a *cure period* for newly-public companies — a transition window post-IPO (typically up to one year to full three-independent-director composition under NYSE § 303A.00 and Nasdaq Rule 5615(b), with phase-in milestones at listing, 90 days, and 1 year). <!-- needs-research: confirm the current phase-in schedule under NYSE § 303A.00 and Nasdaq Rule 5615(b) for newly-public comp-committee composition. --> Many corporations target full independence at listing anyway to avoid the perception of a weak governance posture at the pricing roadshow.
+The exchanges allow a *cure period* for newly-public companies. Under NYSE Listed Company Manual § 303A.00, a company listed in connection with an IPO must have one independent compensation-committee member at listing, a majority of independent members within 90 days of listing, and a fully independent committee within one year of listing; Nasdaq Rule 5615(b) sets out an analogous phase-in for Nasdaq-listed IPO companies. Many corporations target full independence at listing anyway to avoid the perception of a weak governance posture at the pricing roadshow.
 
 ## Composition specifics
 
@@ -139,11 +139,11 @@ Materials are circulated to committee members 5 business days before the meeting
 
 ### When the firm is retained
 
-Compensation-benchmarking firms are typically retained starting at Series-B, when exec-comp benchmarking becomes board-visible and the corporation needs defensible third-party data rather than a founder-CEO's or Head of People's internal survey. Compensia is the dominant firm in the venture-stage private-company market; Radford (Aon) is the dominant public-company firm with a growing late-stage private-company presence; Pave and Carta provide self-service benchmarking products that have displaced some of the lower-end traditional-firm engagements. <!-- needs-research: cite recent market-share or usage data for Compensia, Radford, Pave, and Carta in the venture-stage comp-benchmarking market. -->
+Compensation-benchmarking firms are typically retained starting at Series-B, when exec-comp benchmarking becomes board-visible and the corporation needs defensible third-party data rather than a founder-CEO's or Head of People's internal survey. The venture-stage benchmarking market is served primarily by Compensia (bespoke advisory, widely used pre-IPO), Radford / Aon (survey-driven, strongest post-IPO with a growing late-stage private-company presence), and the self-service data platforms Pave and Carta (which have displaced some of the lower-end traditional-firm engagements). Market-share rankings among these vendors are not publicly disclosed.
 
 ### Fee structure and scope
 
-The typical engagement model is an **annual retainer plus per-project fees**. The retainer covers the fall benchmarking refresh and the committee's standing advisor relationship; per-project fees cover specific exec-hire benchmarking, CoC-event advisory work, pre-IPO comp-program design, and the authoring of the compensation discussion & analysis section of the S-1. <!-- needs-research: cite typical fee ranges for Compensia and Radford engagements at Series-B through pre-IPO. -->
+The typical engagement model is an **annual retainer plus per-project fees**. The retainer covers the fall benchmarking refresh and the committee's standing advisor relationship; per-project fees cover specific exec-hire benchmarking, CoC-event advisory work, pre-IPO comp-program design, and the authoring of the compensation discussion & analysis section of the S-1. Engagement fees are negotiated bilaterally and are not publicly published; a corporation sizing its first engagement should solicit scoped proposals from two or three firms rather than relying on a market rumour.
 
 ### Independence assessment
 
