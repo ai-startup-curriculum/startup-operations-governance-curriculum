@@ -6,7 +6,7 @@
 
 A board meeting is not a status update. It is a legally-constituted decision-making event that produces (a) minutes admissible as evidence of the board's deliberation and (b) resolutions that authorize the corporation to act. The COO / GC / corporate secretary owns the *machinery* — cadence, notice, delivery, session structure, portal, archive — so that directors arrive prepared, deliberate on the right topics, vote on the right resolutions, and leave a defensible record.
 
-The *content* of the pack — KPI dashboard, cash / runway, financial model, investor update — is the CFO's product. That work is authored in the finance/fundraising curriculum. <!-- needs-research: confirm exact chapter path in startup-finance-fundraising-curriculum for the board-pack content chapter (module referenced in scope as mod-110) --> This chapter owns everything around the pack: when the meeting happens, how directors receive materials, how the agenda is built, how sessions are structured, and where the record lives after the gavel drops.
+The *content* of the pack — KPI dashboard, cash / runway, financial model, investor update — is the CFO's product. That work is authored in the finance/fundraising curriculum. This chapter owns everything around the pack: when the meeting happens, how directors receive materials, how the agenda is built, how sessions are structured, and where the record lives after the gavel drops.
 
 ## Meeting cadence
 
@@ -59,7 +59,7 @@ The secretary drafts minutes from a running outline kept during the meeting, cir
 
 Email + Dropbox is not a board portal. It fails on access control, mobile experience, resolution workflow, and archive. The verified portals in the market are **Diligent Boards, Nasdaq Boardvantage, OnBoard (Passageways), BoardEffect (a Diligent product), Boardable, and Board Intelligence.** Evaluate on:
 
-- **(a) Security posture.** SOC 2 Type II report on file and reviewable by the buyer; ISO/IEC 27001 certification; encryption at rest and in transit; SSO/SAML integration; per-tenant data isolation. Ask for the current SOC 2 report under NDA. <!-- needs-research: current SOC 2 Type II and ISO 27001 posture for each of Diligent Boards, Boardvantage, OnBoard, BoardEffect, Boardable, Board Intelligence -->
+- **(a) Security posture.** Current SOC 2 Type II report on file and reviewable by the buyer; ISO/IEC 27001 certification where available; encryption at rest and in transit; SSO/SAML integration; per-tenant data isolation. Ask for the latest report under NDA and confirm the current certification status with each vendor at evaluation time, as individual-product postures change year to year.
 - **(b) Granular per-committee access control.** Committee books (audit, comp, nominating) restricted to committee members. Directors on one committee should not see another committee's materials by default. Guests (auditors, outside counsel) get scoped read-only access to specific books.
 - **(c) Mobile app quality.** Directors read on iPads and phones. Native iOS/Android apps with offline read, annotation sync, and page-jump navigation are table stakes. Test with two directors before you buy.
 - **(d) Resolutions / consents workflow with countersignature.** Unanimous written consents (DGCL § 141(f)) should circulate inside the portal, capture each director's signature with timestamp, and produce a signed PDF for the minute book. Same for stockholder consents.
@@ -72,7 +72,7 @@ The portal is a records system as much as a distribution system. Treat the selec
 
 ## Coordination boundary with the CFO
 
-The CFO owns the *content* of the board pack: KPI dashboard, cash / runway, financial model, investor update, department reviews. That authoring, review, and finance-narrative work lives in the startup-finance-fundraising-curriculum. <!-- needs-research: confirm the exact chapter path in startup-finance-fundraising-curriculum mod-110 for board-pack authoring -->
+The CFO owns the *content* of the board pack: KPI dashboard, cash / runway, financial model, investor update, department reviews. That authoring, review, and finance-narrative work lives in the startup-finance-fundraising-curriculum.
 
 This chapter — and the corporate-secretary function generally — owns:
 

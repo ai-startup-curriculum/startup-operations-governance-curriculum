@@ -48,7 +48,7 @@ Everything else — CEO pay-setting, equity-refresh, clawbacks under Rule 10D-1,
 - **Board and committee evaluations** — the annual self-assessment and periodic third-party evaluations, covered in [chapter 08](./08-annual-governance-operating-rhythm.md).
 - **Corporate-governance guidelines** — meeting cadence, executive sessions, director stock-ownership guidelines, over-boarding limits, retirement age if any.
 - **Code of business conduct and ethics** — annual review and any waiver approvals (waivers for executive officers or directors must be promptly disclosed under Item 5.05 of Form 8-K).
-- **ESG / sustainability disclosure oversight** — climate, human-capital, and governance disclosures. <!-- needs-research: post-2024 status of SEC climate-disclosure rules and any final Reg S-K amendments after the Fifth Circuit litigation -->
+- **ESG / sustainability disclosure oversight** — climate, human-capital, and governance disclosures. The SEC's March 2024 climate-disclosure rules were stayed by the Commission in April 2024 during consolidated Eighth Circuit litigation; the Commission voted in March 2025 to stop defending them and in 2025 proposed to rescind them in their entirety. The committee should track the rulemaking status and investor-expectation shifts separately from the current federal rule text.
 - **Related-party transactions** — the DGCL § 144 review process for interested-director transactions, running in parallel with the audit committee's Item 404 disclosure review.
 
 **Cadence.** Quarterly, with an intense Q1 around the annual meeting and a Q3 composition review that feeds the following year's search plan.
