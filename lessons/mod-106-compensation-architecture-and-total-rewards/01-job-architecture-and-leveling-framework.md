@@ -194,7 +194,7 @@ The IC ladder runs the full height — a Distinguished Engineer (E7) sits as a V
 
 The Head of Total Rewards (post-split) is the leveling librarian. The calibration committee is three members: Head of People, Head of Total Rewards, and a rotating function leader for each session. The committee meets monthly during the annual comp-cycle window (see [chapter 04](./04-annual-comp-cycle.md)) and quarterly at other times. The cross-function leveling council (one representative per track plus the librarian) meets twice per year to ratify changes to the architecture.
 
-The calibration-against-hire-letter audit is a standing Stage-4 agenda item at the comp committee's annual-cycle meeting. The audit samples the previous cycle's offer letters at a documented sampling rate and reports the fraction of hires whose actual twelve-month scope matches the level assigned on the offer letter. <!-- needs-research: a defensible sampling rate for a Series-B population of ~140 and the audit-finding thresholds that should trigger a band or definition revision. -->
+The calibration-against-hire-letter audit is a standing Stage-4 agenda item at the comp committee's annual-cycle meeting. The audit samples the previous cycle's offer letters at a sampling rate the committee documents, reports the fraction of hires whose actual twelve-month scope matches the level assigned on the offer letter, and compares the result against committee-documented thresholds that trigger a band or definition revision.
 
 ### Pending open items
 
