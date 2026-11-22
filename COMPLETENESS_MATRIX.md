@@ -2,7 +2,7 @@
 
 AI Startup Curriculum · Level 50 · [learning](https://github.com/ai-startup-curriculum/startup-operations-governance-curriculum)
 
-_Generated 2026-11-15 by `aicg org completeness`._
+_Generated 2026-11-22 by `aicg org completeness`._
 
 **Overall: 100%**
 
@@ -25,7 +25,7 @@ _Generated 2026-11-15 by `aicg org completeness`._
 | `mod-109-commercial-contracts-ip-and-legal-ops` | ✅ Complete | 93,320 | 9 | 8 | — |
 | `mod-110-privacy-data-governance-and-sector-compliance` | ✅ Complete | 77,634 | 10 | 6 | — |
 | `mod-111-corporate-governance-board-operations-and-officer-duties` | ✅ Complete | 72,356 | 9 | 9 | — |
-| `mod-112-enterprise-risk-insurance-and-compliance` | ✅ Complete | 14,179 | 4 | 0 | — |
+| `mod-112-enterprise-risk-insurance-and-compliance` | ✅ Complete | 31,776 | 4 | 4 | — |
 | `mod-113-international-expansion-and-global-workforce` | ✅ Complete | 45,864 | 9 | 1 | — |
 | `mod-114-operations-function-design` | ✅ Complete | 50,119 | 10 | 3 | — |
 
