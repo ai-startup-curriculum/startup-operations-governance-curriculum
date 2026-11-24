@@ -139,8 +139,6 @@ The analysis is documented contemporaneously; "we decided this was not a breach"
 
 The BAA typically shortens the 60-day outer bound to a much faster commitment — five to fifteen days is common — so the Covered Entity has runway to complete its own analysis and send individual notice inside the Covered Entity's 60-day clock measured from the Covered Entity's own discovery.
 
-<!-- needs-research: confirm the specific settlement cited before treating as canonical -->
-
 ### Audit-trail and PHI-access-logging under § 164.312(b)
 
 The Security Rule's **audit controls standard** at § 164.312(b) requires hardware, software, and / or procedural mechanisms that record and examine activity in information systems that contain or use ePHI. The companion administrative safeguard — the **information-system-activity review** at § 164.308(a)(1)(ii)(D) — requires regular review of records of information-system activity (audit logs, access reports, security-incident tracking reports). Together, these are the HIPAA foundation for the PHI-access-logging discipline.

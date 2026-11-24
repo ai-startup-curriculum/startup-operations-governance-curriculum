@@ -70,7 +70,7 @@ The following table illustrates a representative Series-B tower. Carriers are il
 
 Total tower: $20M of limit, of which $20M is available to individual directors under Side A and $15M is available to the corporation under Sides B / C. The Side A DIC layer both extends limit and drops down to fill coverage gaps in the underlying ABC tower.
 
-<!-- needs-research: typical Series-B primary premium ranges, retention benchmarks by company stage, and DIC-to-ABC ratio norms as reflected in Woodruff Sawyer or Aon market data -->
+Pricing and retention vary materially across years and cycle conditions; use the then-current broker benchmarks (Woodruff Sawyer D&O Databox, Marsh, Aon) for a specific placement rather than any fixed ratio.
 
 ## Exclusion analysis
 
@@ -164,9 +164,7 @@ The 6-year tail therefore covers the full window in which pre-IPO conduct could 
 
 ### Pricing and timing
 
-The tail is priced as a **multiple of the expiring annual premium** and must be purchased at policy expiration or at transaction close — there is no post-close cure. The corporate secretary and the CFO should have the tail quote in hand well before the S-1 goes effective or the merger closes.
-
-<!-- needs-research: typical tail-premium multiples (percentage of expiring premium) for 6-year IPO run-off, as reflected in current broker market reports -->
+The tail is priced as a **multiple of the expiring annual premium** and must be purchased at policy expiration or at transaction close — there is no post-close cure. The actual multiple is a market-cycle variable; the broker should quote it at the start of the pre-IPO underwriting cycle and refresh it ahead of pricing. The corporate secretary and the CFO should have the tail quote in hand well before the S-1 goes effective or the merger closes.
 
 ### Interaction with acquirer coverage in M&A
 
@@ -194,9 +192,7 @@ Primary-carrier retention is often desirable for claims-handling continuity, eve
 
 ### Market cycle
 
-The D&O market cycles between hardening (rising rates, tightening terms, capacity withdrawals) and softening (falling rates, broader terms, new capacity). The broker's role includes calling the cycle and timing the market check accordingly.
-
-<!-- needs-research: current D&O market conditions (hard / soft / transitioning) as of the applicable renewal year -->
+The D&O market cycles between hardening (rising rates, tightening terms, capacity withdrawals) and softening (falling rates, broader terms, new capacity). The broker's role includes calling the cycle and timing the market check accordingly; the state of the cycle in any given renewal year should be taken from current broker commentary and market reports, not fixed in a policy memo.
 
 ## Broker selection
 
@@ -217,9 +213,7 @@ The D&O broker is a strategic advisor, not a transactional intermediary. For ven
 
 ### Market benchmarks
 
-Woodruff Sawyer's annual D&O Databox is a widely cited benchmark for tower size, retention, and pricing by company stage, sector, and market-cap band. The corporate secretary should include current Databox data in the renewal board memo.
-
-<!-- needs-research: most recent Woodruff Sawyer D&O Databox edition and headline benchmarks relevant to this company's stage and sector -->
+Woodruff Sawyer's annual D&O Databox (and the firm's companion *D&O Looking Ahead Guide*) is a widely cited benchmark for tower size, retention, and pricing by company stage, sector, and market-cap band. The corporate secretary should pull the most recent edition at each renewal and include the headline benchmarks relevant to the company's stage and sector in the renewal board memo.
 
 ## Private vs. public company D&O — comparison
 
@@ -233,7 +227,7 @@ Woodruff Sawyer's annual D&O Databox is a widely cited benchmark for tower size,
 | Underwriter focus | Investor claims, employment, IP, contract | Securities-fraud class actions, SEC enforcement, derivative suits |
 | Tower size | Scales with financing stage | Scales with market cap and float |
 
-<!-- needs-research: specific retention benchmarks and tower-size benchmarks by stage and market-cap band -->
+Specific retention and tower-size benchmarks by stage and market-cap band shift year to year; pull them from the then-current broker benchmark report (e.g., Woodruff Sawyer D&O Databox) at each renewal rather than from any fixed table.
 
 ## Trip-wire checklist
 

@@ -69,7 +69,7 @@ The exchange listing standards are the operational floor for public-company gove
 ### Insider-trading policy
 
 - Item 408(b) of Reg S-K requires public companies to disclose in the annual report whether they have adopted an insider-trading policy governing the purchase, sale, or other disposition of the company's securities by directors, officers, and employees, and to file the policy as Exhibit 19 to the 10-K if adopted.
-- Adopted in the December 2022 SEC amendments; applicable to filings for periods beginning on or after April 1, 2023 <!-- needs-research: verify effective-date phasing for smaller reporting companies and non-calendar-year filers -->.
+- Adopted in the December 2022 SEC amendments (Release Nos. 33-11138; 34-96492); applicable to filings covering the first full fiscal period beginning on or after April 1, 2023, deferred by six months (to October 1, 2023) for smaller reporting companies. Non-calendar-year filers apply the trigger to the first full fiscal period on or after the applicable date on their own fiscal calendar.
 - The insider-trading policy authored under [chapter 07](./07-insider-trading-policy-and-10b5-1-programme.md) becomes an SEC-filed exhibit at the first 10-K.
 
 ### Code of ethics disclosure
@@ -119,8 +119,8 @@ The Sarbanes-Oxley Act imposes the internal-controls architecture that distingui
 Item 402 of Reg S-K governs executive-compensation disclosure. The full disclosure package is one of the most operationally intensive sections of the S-1 and the annual proxy.
 
 - Item 402 components: Compensation Discussion and Analysis (CD&A), Summary Compensation Table, Grants of Plan-Based Awards, Outstanding Equity Awards at Fiscal Year-End, Option Exercises and Stock Vested, Pension Benefits, Non-Qualified Deferred Compensation, and Potential Payments upon Termination or Change-in-Control.
-- Item 402(v) pay-versus-performance disclosure was added by SEC rulemaking in 2022 <!-- needs-research: verify Item 402(v) adopting release number and effective-date phasing for EGCs and smaller reporting companies -->.
-- EGCs may provide reduced Item 402 disclosure: three named executive officers (rather than five), and no CD&A, no pay-versus-performance table, no compensation-committee report, and no pay-ratio disclosure during EGC status <!-- needs-research: verify EGC scaled-disclosure scope against latest Item 402 amendments -->.
+- Item 402(v) pay-versus-performance disclosure was added by the SEC in Release Nos. 34-95607; IC-34670, "Pay Versus Performance" (Aug. 25, 2022), applicable to proxy and information statements for fiscal years ending on or after December 16, 2022. EGCs are not required to provide Item 402(v) disclosure during EGC status (consistent with their CD&A exemption), and smaller reporting companies may provide scaled Item 402(v) disclosure (omitting peer-group TSR and the company-selected measure; the three-year lookback is phased in).
+- EGCs may provide the same reduced Item 402 disclosure available to smaller reporting companies during EGC status: three named executive officers (rather than five), and no CD&A, no pay-versus-performance table, no compensation-committee report, and no pay-ratio disclosure.
 
 Substance of executive-compensation policy is owned by [mod-105](../mod-105-equity-compensation-policy-and-comp-committee/). This chapter owns the sequencing for IPO readiness:
 
@@ -135,7 +135,7 @@ Regulation FD (Fair Disclosure), codified at 17 C.F.R. Sections 243.100 through 
 ### Pre-IPO comms lockdown
 
 - From the initial S-1 filing (public or confidential) forward, and continuing through the quiet period after pricing, the company operates under gun-jumping restrictions and Section 5 of the Securities Act.
-- The road-show quiet-period restrictions extend to 25 days after IPO pricing for road-show and prospectus-related communications <!-- needs-research: verify current SEC guidance on quiet-period duration for EGCs versus non-EGCs -->.
+- Prospectus-delivery obligations for dealers under Securities Act Rule 174(d) run for 25 calendar days after an exchange-listed IPO. FINRA Rule 2241 historically imposed analyst-research blackouts of 40 days for managers/co-managers and 25 days for other participating underwriters following an IPO; the JOBS Act eliminated these research blackouts for EGC offerings. Confirm the current rule text and any FINRA guidance updates before each offering.
 - Testing-the-waters communications by EGCs under Securities Act Section 5(d) are permitted before and after filing, but only with qualified institutional buyers and institutional accredited investors.
 
 ### Training and infrastructure
@@ -151,7 +151,7 @@ The governance sections of the S-1 are the first public statement of the company
 
 - Directors and Executive Officers: biographies, ages, committee memberships, independence status, and other public-company directorships.
 - Corporate Governance: framework, committee structure, code of ethics, insider-trading policy, related-party transactions policy, board leadership structure, risk-oversight role.
-- Certain Relationships and Related Party Transactions: the Item 404 inventory of every related-party transaction over the disclosure threshold ($120,000 under current Item 404(a) <!-- needs-research: verify current Item 404(a) threshold -->) since the beginning of the last three fiscal years, plus the related-party transactions policy adopted at IPO.
+- Certain Relationships and Related Party Transactions: the Item 404 inventory of every related-party transaction over the current $120,000 Item 404(a) disclosure threshold since the beginning of the last three fiscal years, plus the related-party transactions policy adopted at IPO.
 - Compensation Discussion and Analysis: the sequencing owned above; substance owned by [mod-105](../mod-105-equity-compensation-policy-and-comp-committee/).
 
 ### The D&O questionnaire
@@ -213,7 +213,7 @@ The 12 months after the IPO are the point at which the pre-IPO governance rebuil
 - Prepared-remarks script and Q&A anticipation document: drafted by IR, reviewed by CFO, vetted by counsel for Reg FD and MD&A consistency.
 - Earnings press release: reviewed and filed on Form 8-K under Item 2.02.
 - Earnings call: held after market close on the day of release; simultaneously webcast; transcript retained.
-- 10-Q filing: 40 days after quarter-end for accelerated filers, 45 days for non-accelerated filers, 40 days for large accelerated filers <!-- needs-research: verify current 10-Q filing deadlines under Rule 13a-13 -->.
+- 10-Q filing under Rule 13a-13: 40 calendar days after quarter-end for large accelerated and accelerated filers, 45 calendar days for non-accelerated filers (including most EGCs and smaller reporting companies).
 
 ### Annual proxy
 
@@ -246,12 +246,12 @@ The JOBS Act (Jumpstart Our Business Startups Act), enacted in 2012, created the
 
 ### Eligibility
 
-- Total annual gross revenues under a threshold in the most recent fiscal year <!-- needs-research: verify current EGC revenue eligibility threshold as adjusted for inflation --> and the company completed its IPO after December 8, 2011.
+- Total annual gross revenues under the inflation-adjusted threshold in the most recent fiscal year — currently $1.235 billion under the SEC's September 2022 JOBS Act inflation adjustment (Release No. 33-11098), subject to further quinquennial CPI-U adjustments — and the company completed its IPO after December 8, 2011.
 
 ### Duration
 
 - EGC status lasts up to five fiscal years after the IPO, or until the earlier of:
-  - Total annual gross revenues of $1.235 billion or more (as inflation-adjusted) <!-- needs-research: verify current inflation-adjusted revenue ceiling for EGC exit -->.
+  - Total annual gross revenues of $1.235 billion or more (as last inflation-adjusted in the SEC's September 2022 adjustment under Release No. 33-11098, subject to further CPI-U adjustments on the statutory five-year cycle).
   - Issuance of more than $1 billion in non-convertible debt in the trailing three-year period.
   - Becoming a large accelerated filer under Rule 12b-2 (public float of $700 million or more).
 
