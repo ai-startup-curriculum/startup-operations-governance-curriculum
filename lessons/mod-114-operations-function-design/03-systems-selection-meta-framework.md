@@ -56,7 +56,7 @@ Match the vendor's scale sweet spot to the company's 24-month trajectory, not to
 - **CRM example.** HubSpot is excellent early; Salesforce dominates enterprise; a mid-market company churning between the two at Series B is spending millions of dollars in replatforming for no incremental sales value.
 - **ATS example.** Ashby, Greenhouse, and Lever are the modern venture-scale-up staples; Workday Recruiting is the enterprise standard. Below 500 headcount, the modern ATSs win; above 2,000 headcount, Workday's integration wins.
 
-<!-- needs-research: verify current vendor positioning and scale bands for HRIS, CRM, and ATS in 2026 — the market consolidates and product tiers shift each year. -->
+The HRIS, CRM, and ATS markets all consolidate and reshape product tiers each year; the vendor examples above are directional, and the specific scale bands at which each vendor is the right choice will have shifted by the time of a selection. Re-check against the current year's Gartner / vendor analyst coverage at purchase.
 
 ### Criterion 5 — Total cost of ownership (TCO)
 
@@ -98,7 +98,7 @@ Every operations system has a **graduation trigger** — the moment the current 
 
 **Graduation trigger — scale → enterprise.** ~1,000 employees, or the emergence of a compensation-committee-driven executive-comp architecture, or the emergence of complex org modelling (matrix reporting, cost-centre hierarchies, multi-entity payroll).
 
-<!-- needs-research: verify current HRIS vendor positioning and the specific tiers — the HRIS market is one of the most-consolidating segments in the systems landscape and product tiers shift with each vendor's annual release. -->
+The HRIS market is one of the most-consolidating segments in the systems landscape; vendor product tiers shift with each annual release and bundles move across tier lines. Treat the vendors named above as the current canonical shortlist, not a stable ranking — re-check at purchase.
 
 ### ATS (Applicant Tracking System)
 
@@ -171,7 +171,7 @@ Every operations system has a **graduation trigger** — the moment the current 
 
 **Graduation trigger.** Fleet size (~50 devices); security-programme requirement for MDM enforcement, disk encryption enforcement, and device-inventory reconciliation; the first security audit requiring MDM evidence.
 
-<!-- needs-research: verify current vendor positioning across HRIS, ATS, compensation, CLM, privacy, GRC, board portal, spend, procurement, and IT-and-endpoint categories — the market is dynamic and multiple categories are consolidating rapidly. -->
+Vendor positioning across every category above (HRIS, ATS, compensation, CLM, privacy, GRC, board portal, spend, procurement, IT-and-endpoint) is actively consolidating and rebranding — vendors acquire each other (OneTrust acquired Tugboat Logic; Omnissa split from VMware; Divvy became part of BILL Spend & Expense; Deel has acquired Sastrify), and tiers shift with each annual release. Treat the vendor lists above as a working inventory at the time of writing and re-check for consolidation, acquisitions, and new entrants at purchase.
 
 ## The change-management pattern for a system migration
 
@@ -228,7 +228,7 @@ A representative growth-stage migration:
 - Parallel run: one payroll cycle on both systems, with a formal reconciliation gate.
 - Rollback plan: retain Rippling read access for 90 days post-cutover; the trigger for rollback is a defined payroll-error rate or a data-integrity failure that cannot be resolved in-flight.
 
-**Cost.** Software: Workday license at Year 1 approximately US$25–40 per employee per month at Series-C scale <!-- needs-research: verify Workday HCM per-employee-per-month pricing at ~1,000-employee scale in 2026, as vendor pricing varies by module set and geographic scope. -->. Implementation: partner-led (Deloitte, Accenture, Alight, or a Workday-specialised boutique) at US$0.5–1.5M for the full HCM + payroll + comp module scope. Internal cost: 2 FTE-years of Business Systems + 1 FTE-year of Payroll + 0.5 FTE-year of the CoS's time. Total 3-year TCO in the low-to-mid single-digit millions.
+**Cost.** Software: Workday license at Year 1 roughly in the US$20–40 per employee per month range at ~1,000-employee scale, with meaningful variance by module set, geographic scope, and negotiated discount (Workday does not publish list pricing — all contracts are custom-quoted). Implementation: partner-led (Deloitte, Accenture, Alight, or a Workday-specialised boutique) at US$0.5–1.5M for the full HCM + payroll + comp module scope. Internal cost: 2 FTE-years of Business Systems + 1 FTE-year of Payroll + 0.5 FTE-year of the CoS's time. Total 3-year TCO in the low-to-mid single-digit millions.
 
 **Post-migration state.** Workday HCM as source-of-truth for employee master data; Ashby (ATS) integrated bidirectionally; Ramp (expense) integrated for expense-to-payroll; ADP (multi-country payroll partner) integrated where Workday Payroll does not cover the country; Rippling IT retained as MDM (not migrated); Rippling HRIS decommissioned.
 

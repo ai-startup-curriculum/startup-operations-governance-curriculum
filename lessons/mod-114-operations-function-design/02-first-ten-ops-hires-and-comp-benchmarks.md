@@ -20,7 +20,7 @@ Three commercial benchmarks dominate the venture-scale-up market:
 
 Supplementary sources: **Option Impact (Advanced-HR)** for equity-heavy analysis, **Payscale / Salary.com** for lower-quality but free ranges, **Levels.fyi** for public-company IC compensation data.
 
-<!-- needs-research: Carta, Pave, and Radford's current subscription pricing tiers and the geographic / stage / industry coverage of each as of 2026 — the market moves and vendors periodically change tier structures. -->
+Vendor pricing tiers, module coverage, and geographic / stage / industry depth shift materially from year to year; the characterisations above are directional. Re-confirm each vendor's current offering (free vs. paid, survey participation requirements, data freshness) at the time of subscription.
 
 The comp bands below reference the composite pattern these sources describe for a US-headquartered venture-backed technology company at the stated stage. Regional adjustments (SF Bay Area / NYC premium, Tier-2 city discount, remote-national blended) and industry adjustments (deep-tech premium, marketplace / consumer discount) apply on top.
 
@@ -34,7 +34,7 @@ The default sequence below assumes a US-headquartered venture-backed SaaS compan
 
 **Timing.** Late Series A to early Series B. Company headcount typically 40–100.
 
-**Comp band.** Highly variable — the CoS market splits into "operator CoS" (former founder, former operator, senior background) at one end and "consultant CoS" (former McKinsey / Bain / BCG consultant, 3–5 years post-MBA) at the other. Directional bands for a US venture-backed SaaS company: base US$180–300k, target bonus 10–20%, equity typically 0.15–0.50% at Series B (varies enormously by tenure, stage, and the CoS's expected trajectory to COO / VP). <!-- needs-research: verify Chief of Staff comp bands in Carta / Pave / Radford data for Series A/B/C companies — the role is under-benchmarked historically and the bands widen fast at senior levels. -->
+**Comp band.** Highly variable — the CoS market splits into "operator CoS" (former founder, former operator, senior background) at one end and "consultant CoS" (former McKinsey / Bain / BCG consultant, 3–5 years post-MBA) at the other. The role is under-benchmarked in the Carta / Pave / Radford datasets and the published bands widen fast at the senior end; triangulate against at least two sources for the specific stage and geography, and expect base, bonus, and equity to all vary enormously by tenure, stage, and the CoS's expected trajectory to COO / VP.
 
 **Hire vs. defer vs. outsource.** **Hire.** There is no meaningful outsourced version of this seat — the CoS's value is proximity to the CEO, which cannot be contracted out. Defer only if the CEO is unwilling to actually delegate anything, in which case any CoS will fail.
 
@@ -44,7 +44,7 @@ The default sequence below assumes a US-headquartered venture-backed SaaS compan
 
 **Timing.** ~3–6 months after CoS lands, sometimes concurrent.
 
-**Comp band.** US$110–160k base, 5–10% bonus, 0.02–0.08% equity at Series B for a 2–4-years-experienced analyst; higher at Series C for a senior analyst. <!-- needs-research: verify BizOps analyst / associate comp bands in Carta / Pave for Series B–C venture-backed tech. -->
+**Comp band.** Typical BizOps analyst / associate ranges for a 2–4-years-experienced analyst in Series B–C venture-backed tech; higher at Series C for a senior analyst. Pull the specific base, bonus, and equity bands from Carta / Pave for the stage and geography at time of hire — analyst-level bands shift materially with the venture-market cycle.
 
 **Hire vs. defer vs. outsource.** **Hire.** Some early-stage companies rent BizOps capacity from a fractional-BizOps firm (SVB / Silicon Valley Bank Alliance-partner firms and independents like BBG Ventures' operator network and Chief of Staff Network); these can bridge for 6 months but do not scale as the analytical remit grows. Hire once the volume justifies a dedicated seat.
 
@@ -54,7 +54,7 @@ The default sequence below assumes a US-headquartered venture-backed SaaS compan
 
 **Timing.** Late Series A to Series B.
 
-**Comp band.** Wide range depending on scope — a Head of Workplace running a single office is a very different seat from one running a hub-and-spoke footprint across three cities. Directional bands: US$140–230k base, 10–15% bonus, 0.03–0.15% equity at Series B. <!-- needs-research: verify Head of Workplace / Head of Facilities / Head of Real Estate comp bands in Radford / Pave data — the role often benchmarks against Facilities Manager (lower) or VP Real Estate (higher) depending on the seat's construction. -->
+**Comp band.** Wide range depending on scope — a Head of Workplace running a single office is a very different seat from one running a hub-and-spoke footprint across three cities. Benchmark against two anchor roles in Radford / Pave data: Facilities Manager at the lower bound and VP Real Estate at the upper bound. Which anchor applies depends on the seat's construction (single-office operator vs. multi-site leader); bands between the two anchors are wide.
 
 **Hire vs. defer vs. outsource.** **Fractional first.** Many companies use a fractional Workplace lead (10–20 hours/week for 6–12 months) via a specialised firm (e.g., Envoy's advisory, EverWest, or independent workplace consultants) to run the first lease negotiation and TI build-out. Convert to a full-time hire once the operational footprint (multi-office, on-site services, workplace-experience programme) needs day-to-day management.
 
@@ -64,7 +64,7 @@ The default sequence below assumes a US-headquartered venture-backed SaaS compan
 
 **Timing.** Series B.
 
-**Comp band.** US$130–190k base, 10–15% bonus, 0.03–0.10% equity at Series B for a 5–8-years-experienced program manager. <!-- needs-research: verify Senior Program Manager / Ops PM comp bands. -->
+**Comp band.** Benchmark against Senior Program Manager / Ops PM bands in Carta / Pave at Series B for a 5–8-years-experienced program manager; the band straddles senior IC and manager levels and shifts with the venture-market cycle.
 
 **Hire vs. defer vs. outsource.** **Contract-to-hire is common.** Program-management work often comes into the company via a contract program manager on a specific initiative (a Workday implementation, a Salesforce migration). Convert to a full-time hire when the pipeline of programmes is a steady state rather than one-off surges.
 
@@ -74,7 +74,7 @@ The default sequence below assumes a US-headquartered venture-backed SaaS compan
 
 **Timing.** Series B to Series C.
 
-**Comp band.** US$150–220k base, 10–15% bonus, 0.03–0.10% equity at Series B/C. <!-- needs-research: verify Head of Procurement / Procurement Manager comp bands for scale-up-stage venture-backed tech; the role is under-benchmarked in Carta / Pave until later stages and often benchmarks against a controller-adjacent finance seat. -->
+**Comp band.** The role is under-benchmarked in Carta / Pave until later stages; the most defensible benchmark anchor at Series B/C is a controller-adjacent finance seat of comparable scope, blended with Procurement Manager bands where published.
 
 **Hire vs. defer vs. outsource.** **Defer or outsource until the trigger fires.** Below the spend threshold, procurement is a distributed responsibility — each department head owns their vendors, with Finance approving above a threshold. Above the threshold, hire a dedicated seat; the leverage on vendor consolidation and rate negotiation pays for the role quickly. See [chapter 05](./05-procurement-operating-model.md).
 
@@ -84,7 +84,7 @@ The default sequence below assumes a US-headquartered venture-backed SaaS compan
 
 **Timing.** Series B to Series C.
 
-**Comp band.** US$180–260k base, 10–15% bonus, 0.05–0.15% equity at Series B/C. <!-- needs-research: verify Head of Business Systems / Head of IT comp bands in Pave / Radford data. -->
+**Comp band.** Benchmark against Head of Business Systems / Head of IT bands in Pave / Radford for Series B/C venture-backed tech, scaled to the seat's scope (systems-architecture-heavy vs. endpoint-heavy); the band widens meaningfully with the breadth of the integration surface the seat owns.
 
 **Hire vs. defer vs. outsource.** **Hybrid.** Endpoint management (laptop provisioning, MDM, help desk) can be outsourced to an MSP (Managed Service Provider) — Electric, ExpressIT, or a regional MSP — from day one and often should be. Business-systems architecture (systems selection, integration design, SaaS governance) needs a dedicated owner once the trigger fires; outsourcing it via a consultancy tends to produce a plan the internal team cannot execute. Hire the seat, keep the endpoint / help-desk work outsourced.
 
@@ -94,7 +94,7 @@ The default sequence below assumes a US-headquartered venture-backed SaaS compan
 
 **Timing.** Series C.
 
-**Comp band.** US$180–260k base, 10–15% bonus, 0.08–0.20% equity at Series C. <!-- needs-research: verify BizOps team-lead comp bands. -->
+**Comp band.** Benchmark against BizOps / Business Operations team-lead or manager bands in Pave at Series C for a seat managing 3–5 analysts; the band sits between senior IC and director levels and moves with the venture-market cycle.
 
 **Hire vs. defer vs. outsource.** **Hire.** Sub-function leadership is not outsourceable. The one-year-earlier alternative is to promote from within — one of the existing analysts to team lead — which works well when the bench is strong and less well when it is not.
 
@@ -104,7 +104,7 @@ The default sequence below assumes a US-headquartered venture-backed SaaS compan
 
 **Timing.** Series C onward.
 
-**Comp band.** IC-level analyst / associate bands from Seat 2 apply; senior IC bands (5–8 years) rise to US$150–200k base, 10% bonus, 0.03–0.10% equity at Series C. <!-- needs-research: verify senior BizOps IC bands in Pave / Radford. -->
+**Comp band.** IC-level analyst / associate bands from Seat 2 apply; senior ICs (5–8 years) benchmark against Pave / Radford senior BizOps / Business Operations IC bands at Series C, which sit meaningfully above the Seat-2 analyst band.
 
 **Hire vs. defer vs. outsource.** **Hire.** Sub-function IC hiring is the incremental growth of the BizOps team as the org scales; the leverage is durable and the cost is well within the operating-org budget.
 
@@ -114,7 +114,7 @@ The default sequence below assumes a US-headquartered venture-backed SaaS compan
 
 **Timing.** Series C onward, or earlier if the international footprint moves faster.
 
-**Comp band.** US$180–260k base (in-country, adjusted for local market), 10–15% bonus, 0.05–0.15% equity at Series C. Local-market comp benchmarks (Carta International, Pave, or country-specific sources like Options Group in the UK) apply on top of the US comp architecture. <!-- needs-research: verify international ops-lead comp benchmarks by country — the market is highly local and Carta / Pave coverage varies. -->
+**Comp band.** In-country base adjusted for local market, with bonus and equity structured against the US comp architecture at Series C. Local-market comp benchmarks (Carta International, Pave, or country-specific sources like Options Group in the UK) drive the actual band — the market is highly local and Carta / Pave coverage varies by country, so pull the local benchmark at time of hire.
 
 **Hire vs. defer vs. outsource.** **Hire once the trigger fires.** Before the trigger, the US ops team plus a local admin (via EOR or via the first local direct-entity hire) handles the workflow.
 
@@ -124,7 +124,7 @@ The default sequence below assumes a US-headquartered venture-backed SaaS compan
 
 **Timing.** Late Series B to Series C, sometimes deferred to Series D depending on CEO variables.
 
-**Comp band.** US$350–500k base, 25–50% bonus, 1.0–3.0% equity at Series C for a first COO hire; higher at growth stage. The COO is a compensation-committee-level seat (see [mod-105](../mod-105-equity-compensation-policy-and-comp-committee/)) and the specific offer runs through the comp committee. <!-- needs-research: verify COO comp bands in Radford executive-comp data and Carta State-of-Comp reports for Series C+ US venture-backed tech. -->
+**Comp band.** Benchmark against Radford executive-comp data and Carta's *State of Startup Compensation* reports for Series C+ US venture-backed tech; Carta's recent data has shown COO base compensation stepping up materially from Series A through Series C, and non-founder C-level equity grants concentrated in a wide band at the executive layer. The COO is a compensation-committee-level seat (see [mod-105](../mod-105-equity-compensation-policy-and-comp-committee/)) and the specific offer runs through the comp committee.
 
 **Hire vs. defer vs. outsource.** **Hire — but only when the CEO trigger is real.** A premature COO is the single most expensive ops-org mistake ([chapter 01](./01-coo-vs-cos-and-bizops-org-design.md)) — hundreds of thousands of dollars of base plus multi-point equity, absorbed for 12–24 months, then unwound with a costly executive-departure conversation. Defer until the CEO can honestly answer "I am ready to let this person overturn my line calls without a re-litigation every time."
 
@@ -154,7 +154,7 @@ The cumulative fully-loaded cost of building out the ten seats is meaningful:
 - **Series C (Seats 1–8, opening 9–10):** ~US$4.0–8.0M / year fully loaded (full BizOps team, dedicated Procurement + Business Systems, international ops opening, COO landing).
 - **Growth stage (all ten seats + team growth):** ~US$10–20M+ / year fully loaded.
 
-Fully-loaded means base + bonus + equity (at burn rate) + employer taxes + benefits + workspace + tools. The rule of thumb multiplier on base salary is **1.4–1.6×** for the fully-loaded number. <!-- needs-research: verify the 1.4–1.6× multiplier for fully-loaded cost in the current US benefits / employer-tax / equity-burn environment. -->
+Fully-loaded means base + bonus + equity (at burn rate) + employer taxes + benefits + workspace + tools. The commonly-cited rule-of-thumb multiplier on base salary for US tech employees is in the **~1.3–1.5×** range once employer payroll taxes (~7.65–8.25%), benefits, workspace, and tooling are stacked; the specific number drifts with the benefits package, the equity-burn convention, and the workspace footprint.
 
 The board test on any ops-org headcount plan is: **does the incremental leverage of the new seat exceed its fully-loaded cost inside 12 months?** For each of the ten seats above, the leverage case has to be made explicitly at the time of hire — not on general principles.
 

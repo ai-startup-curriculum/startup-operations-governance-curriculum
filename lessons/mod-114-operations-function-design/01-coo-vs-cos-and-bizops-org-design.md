@@ -28,7 +28,7 @@ Core CoS remit:
 
 The CoS is **not** an executive. The CoS reports to the CEO. The CoS has no P&L, no direct-report headcount beyond a small BizOps pod (if any), and no unilateral decision authority over line functions. The CoS's power is derived from the CEO's — expressed as convening authority, agenda-setting authority, and pre-read authority over what reaches the CEO's desk.
 
-The CoS role has been variously described in the Silicon Valley canon (Tyler Parris's *Chief of Staff: The Strategic Partner Who Will Revolutionize Your Organization*; the White House Chief of Staff literature by Chris Whipple; the Chief of Staff Association's community practice) and in the operator narratives of scaled companies. The consistent through-line is that the seat is defined by proximity to the principal, not by a line remit. <!-- needs-research: verify the Tyler Parris and Chris Whipple citations and confirm the Chief of Staff Association's canonical framing for a private-sector CoS role. -->
+The CoS role has been variously described in the Silicon Valley canon (Tyler Parris's *Chief of Staff: The Strategic Partner Who Will Revolutionize Your Organization* (2015); the White House Chief of Staff literature by Chris Whipple, *The Gatekeepers: How the White House Chiefs of Staff Define Every Presidency* (2017); the Chief of Staff Association's community practice) and in the operator narratives of scaled companies. The consistent through-line is that the seat is defined by proximity to the principal, not by a line remit.
 
 ### Seat 2 — Chief Operating Officer (COO)
 
@@ -44,7 +44,7 @@ Core COO remit — variant by company but drawn from a common vocabulary:
 
 The COO is an executive with independent authority, not a proxy for the CEO. Where the CoS's decisions get reversed by "the CEO says no," the COO's decisions stand unless overturned in an explicit executive-team debate.
 
-Ben Horowitz's *The Hard Thing About Hard Things* frames the COO decision as the CEO's most consequential structural choice — a well-fit COO doubles the CEO's operating capacity; a poorly-fit COO or a premature COO fragments the org. Frank Slootman's *Amp It Up* frames the same seat as the enforcer of operating discipline that lets a CEO stay in the strategic saddle. <!-- needs-research: verify the specific framings from Horowitz's *The Hard Thing About Hard Things* on the COO role and Slootman's *Amp It Up* on the operating-discipline seat. -->
+Ben Horowitz's *The Hard Thing About Hard Things* (2014) treats executive hiring — including hiring a COO when the CEO has not held the role themselves — as one of the CEO's most consequential structural choices, with mis-hires at the executive layer breaking the organisation disproportionately. Frank Slootman's *Amp It Up* (2022) frames the operating seat in parallel terms: raising expectations, increasing urgency, elevating intensity, and the "audit your own tempo before you audit anyone else's" discipline that a COO is often brought in to install.
 
 ### Seat 3 — Head of BizOps (Business Operations)
 
@@ -149,7 +149,7 @@ The **CFO owns the finance function** — accounting, controllership, FP&A, trea
 
 The COO / CoS coordinates with the CFO on:
 
-- **Operating cadence and the close cycle.** The monthly business review lands after the monthly close — the COO's cadence and the CFO's close cycle must be sequenced so that the MBR uses closed-book numbers. See [chapter 06](./06-operating-cadence-and-okrs-rhythm.md) and the finance-curriculum monthly-close chapter. <!-- needs-research: confirm the exact chapter path in startup-finance-fundraising-curriculum for the monthly close cycle chapter (referenced in the module spec as mod-111). -->
+- **Operating cadence and the close cycle.** The monthly business review lands after the monthly close — the COO's cadence and the CFO's close cycle must be sequenced so that the MBR uses closed-book numbers. See [chapter 06](./06-operating-cadence-and-okrs-rhythm.md) and the finance function's month-end close process (owned by the finance-fundraising curriculum).
 - **Systems selection interface.** ERP, GL, AP, expense-management, and procurement-adjacent finance systems are the CFO's call, with the COO / Head of Business Systems as a stakeholder on the integration side. Non-finance systems (HRIS, CLM, board portal, IT-asset management, workplace management) are the COO's call, with the CFO as a stakeholder on the cost and TCO side.
 - **Board-pack authorship split.** CFO owns the pack content; the CoS owns the meeting choreography around it ([mod-111 chapter 02](../mod-111-corporate-governance-board-operations-and-officer-duties/02-board-cadence-and-materials.md)).
 - **Strategic Finance placement.** Whether Strategic Finance sits inside Finance or inside BizOps is a company-specific call — the two seats must agree on it and hold to a clear line.

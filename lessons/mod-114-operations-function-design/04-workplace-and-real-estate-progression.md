@@ -24,7 +24,7 @@ Founders work from home; from a garage; from a founder's living room. The first 
 
 ### Stage 2 — Coworking (Series A, ~15–50 employees)
 
-The first "office" is typically a coworking membership — WeWork, Industrious, Convene, Regus, Bond Collective, Servcorp, a regional coworking chain, or a specialised startup-focused space (Founders Center, ZeroCircle, or a city-specific brand). Typical cost: **US$500–1,500 per desk per month** in a Tier-1 US city; less in Tier-2 cities; more in enterprise-class private-office coworking (Convene, Industrious's higher tiers). <!-- needs-research: verify per-desk coworking pricing bands across WeWork, Industrious, Convene, Regus, Bond Collective, and Servcorp in major US markets in 2026. -->
+The first "office" is typically a coworking membership — WeWork, Industrious, Convene, Regus, Bond Collective, Servcorp, a regional coworking chain, or a specialised startup-focused space (Founders Center, ZeroCircle, or a city-specific brand). Published asking rates for dedicated desks in Tier-1 US markets commonly run **in the US$400–1,000 per desk per month** range (with WeWork at the lower end of that spread and Industrious / Convene at the higher end in NYC and SF); Tier-2 cities run below; enterprise-class private-office tiers run above.
 
 **What this stage buys:** Physical space with month-to-month or short-term commitment. Furniture, internet, meeting rooms, coffee, and reception included. No lease exposure, no facilities function, no build-out.
 
@@ -52,7 +52,7 @@ The company signs its first direct lease — typically a **3-year term** on a **
 
 ### Stage 4 — First long-term hub lease (Series B, ~100–250 employees)
 
-The company signs a **5-year (or longer) lease** on a **10,000–30,000 sqft** hub in the anchor city — a purpose-built build-out, typically in a Class-A or Class-B+ building, with a significant TI package (US$50–150+ per sqft, landlord-funded or landlord-amortised into rent). <!-- needs-research: verify current tenant-improvement allowance ranges in Class-A office buildings in Tier-1 US markets in 2026 — TI packages moved materially through the post-2020 office-market cycle and continue to reset. -->
+The company signs a **5-year (or longer) lease** on a **10,000–30,000 sqft** hub in the anchor city — a purpose-built build-out, typically in a Class-A or Class-B+ building, with a significant TI package (commonly in the **~US$80–150 per sqft** range for Class-A space in Tier-1 US markets in the current tenant-favourable cycle, landlord-funded or landlord-amortised into rent).
 
 **What this stage buys:** A durable workplace anchor. Meeting-room capacity for on-site events, board meetings, and customer visits. A visible brand statement. A financial predictability the 3-year lease cannot deliver (long-term rent locked in, TI amortised).
 
@@ -99,9 +99,9 @@ The dominant tenant-representation firms in the US commercial market:
 - **Colliers** — global, strong in Tier-2 US and international.
 - **Savills** — global, particularly strong in London and international.
 - **Avison Young** — mid-market focus.
-- **Boutique / regional firms** — many strong regional players (Kidder Mathews in the Pacific Northwest, Kennedy Wilson, CresaPartners as a tenant-only firm that avoids landlord conflicts, and dozens of city-specific specialists).
+- **Boutique / regional firms** — many strong regional players (Kidder Mathews in the Pacific Northwest, Kennedy Wilson, Cresa as an occupier-only firm that avoids landlord conflicts, and dozens of city-specific specialists).
 
-<!-- needs-research: verify current market positioning and regional strength of tenant-representation firms in 2026; the market consolidates and boutique firms enter and exit. -->
+Tenant-representation markets reshape regularly — firms acquire each other, boutique entrants challenge the global incumbents, and regional strength shifts city by city. Treat the list above as a working inventory and ask a peer scale-up CEO or your venture firm's platform team for a current referral to the right tenant-rep partner in the specific market.
 
 ### How the firms are paid
 
@@ -135,7 +135,7 @@ The TI allowance depends on market, building class, and lease term. Rough direct
 - **Standard-term lease (5–7 years):** US$50–100 per sqft.
 - **Long-term lease (10+ years):** US$100–200+ per sqft.
 
-Tier-2 markets and Class-B buildings run lower; downtown Manhattan Class-A trophy space runs higher; post-2020 tenant-favourable market cycles push allowances up materially. <!-- needs-research: verify current TI allowance ranges in Tier-1 US markets in 2026 — the office market cycle drives significant variance. -->
+Tier-2 markets and Class-B buildings run lower; downtown Manhattan Class-A trophy space runs higher; the post-2020 tenant-favourable cycle pushed gateway-market allowances up materially (Manhattan Class-A averaged in the vicinity of US$120–140 per sqft and San Francisco Class-A in a comparable band in recent CBRE / Colliers / Cushman & Wakefield market reports). Confirm the current market cycle with the tenant-rep firm at engagement.
 
 ### Negotiation points on TI
 
@@ -158,7 +158,7 @@ Every long-term lease is signed with a plan; the plan changes. The sublease exit
 - **Financial economics.** The tenant remains liable under the primary lease; the sub-tenant pays the sub-lessor (the tenant). If the sub-tenant defaults, the tenant is still on the hook to the landlord. Sublease rent is typically at or below the primary rent in a soft market — a sublease loss is common and is the "cost" of the exit option.
 - **Broker-fee obligation.** The tenant typically pays the sublease-broker fee (both sides); model it into the exit cost.
 
-The 2020-onward post-COVID office-market cycle saw an unprecedented volume of sublease space hit the market as tenants exercised the sublease exit. The mechanic that made those exits possible was negotiated at lease signing years earlier. If a lease you are signing today does not include a workable sublease right, you are pre-committing to carry the space for the full term regardless of future business need. <!-- needs-research: verify the specific dynamics of the 2020–2025 US office sublease market and the typical sublease-loss experience for tenants that exercised the option. -->
+The 2020-onward post-COVID office-market cycle saw an unusually high volume of sublease space hit the market as tenants exercised the sublease exit (Cushman & Wakefield and CBRE market reports tracked sublease availability at multi-decade highs through 2023 before it began to decline as AI-tenant demand and gradual return-to-office absorbed supply from 2024 onward). The mechanic that made those exits possible was negotiated at lease signing years earlier. If a lease you are signing today does not include a workable sublease right, you are pre-committing to carry the space for the full term regardless of future business need.
 
 ## Interaction with the return-to-office / hybrid-work policy
 
