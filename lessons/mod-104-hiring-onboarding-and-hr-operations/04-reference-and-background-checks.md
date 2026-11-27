@@ -12,7 +12,7 @@ Between "we want to make an offer" and "we make the offer" the corporation shoul
 Both matter, and both have well-documented failure patterns:
 
 - The "back-channel" reference (the founder calls their friend at the candidate's prior employer and asks "should we hire this person?") is fast but a compliance minefield — no consent, unstructured, prone to protected-category infection, and easily challenged in an EEOC or Title VII proceeding.
-- The FCRA-non-compliant background check (bundled-disclosure form; unauthorised report pull; no pre-adverse-action letter; no waiting period; no adverse-action letter) is the *single most common wage-and-hour-style class-action trigger in HR compliance*. FCRA class actions targeting employers who buried the disclosure inside the offer packet, or skipped the pre-adverse-action process, have produced eight-figure settlements. <!-- needs-research: cite examples of high-profile FCRA-background-check class actions against employers (e.g., cases against major retailers and rideshare / logistics companies) to ground the exposure claim; do not fabricate case names or settlement amounts. -->
+- The FCRA-non-compliant background check (bundled-disclosure form; unauthorised report pull; no pre-adverse-action letter; no waiting period; no adverse-action letter) is the *single most common wage-and-hour-style class-action trigger in HR compliance*. FCRA class actions targeting employers who buried the disclosure inside the offer packet, or skipped the pre-adverse-action process, have produced seven- and eight-figure settlements against large employers across retail, healthcare, logistics, and financial-services sectors.
 - The ban-the-box / fair-chance failure — asking about criminal history on the initial application in a jurisdiction that prohibits it, or making an adverse decision based on a criminal record without conducting the required individualised assessment — is an escalating state and city compliance surface.
 
 This chapter builds the reference-check playbook, the FCRA-compliant background-check process, the ban-the-box / fair-chance overlay, and the international variance the corporation must factor if it hires abroad.
@@ -69,7 +69,7 @@ The standalone-disclosure requirement is the trapdoor. The corporation may not:
 - Add a liability-release / waiver-of-claims clause to the disclosure document.
 - Add "extraneous" text — for example, state-law notices — to the *disclosure document itself*, though a separate state-law notice document is permitted.
 
-Court decisions have repeatedly held that even *seemingly minor* additions to the disclosure document (a small liability release, a brand logo, an "acknowledgment" clause) can render the disclosure non-compliant, exposing the corporation to statutory damages of $100–$1,000 per willful violation (plus actual damages and attorneys' fees). <!-- needs-research: cite the leading FCRA standalone-disclosure cases (e.g., Syed v. M-I, LLC, 9th Cir. 2017, and subsequent cases) and the current FTC / CFPB guidance on FCRA disclosures. -->
+Court decisions have repeatedly held that even *seemingly minor* additions to the disclosure document (a small liability release, a brand logo, an "acknowledgment" clause) can render the disclosure non-compliant, exposing the corporation to statutory damages of $100–$1,000 per willful violation (plus actual damages and attorneys' fees). The seminal case is *Syed v. M-I, LLC*, 853 F.3d 492 (9th Cir. 2017), which held that including a liability-release / waiver-of-claims clause in the same document as the FCRA disclosure was a willful violation of § 1681b(b)(2)(A)(i); the Supreme Court declined review, and subsequent circuit and district court decisions have extended the reasoning to brand logos, state-law notices, and "acknowledgment" language.
 
 The authorisation can be on the same document as the disclosure (this is expressly permitted by 15 U.S.C. § 1681b(b)(2)(A)(ii)) — but nothing else can.
 
@@ -84,9 +84,9 @@ The corporation does not decide *what to order* on autopilot — the scope of th
 If the report contains information that would cause the corporation to take an adverse action (rescind an offer, decline to hire), the corporation must, *before* taking the adverse action:
 
 1. Provide the candidate with a copy of the consumer report (the actual report, not a summary), and
-2. Provide the candidate with a copy of "A Summary of Your Rights Under the Fair Credit Reporting Act" (the FTC's model summary, updated periodically — check for the current version at consumerfinance.gov). <!-- needs-research: confirm the current version and correct citation for the CFPB's Summary of Rights document, and confirm CFPB (not FTC) is the current publishing authority. -->
+2. Provide the candidate with a copy of "A Summary of Your Rights Under the Fair Credit Reporting Act" (the CFPB's model summary — rule-making authority for the FCRA was transferred from the FTC to the CFPB by the Dodd-Frank Act, and the Bureau now publishes the current version on its "Model Forms and Disclosures" page at consumerfinance.gov; the version most recently in force was issued by the CFPB on March 17, 2023 and became mandatory on March 20, 2024).
 
-The corporation must then **wait a reasonable period** — the FCRA does not fix a specific waiting period, but the FTC has historically guided that 5 business days is a common defensible baseline (some jurisdictions and some courts have implied longer, particularly under state analogues). <!-- needs-research: confirm the current FTC / CFPB guidance and case-law consensus on the pre-adverse-action waiting period; 5 business days is commonly cited but the specific number is not statutory. --> The wait period exists to allow the candidate to dispute inaccuracies in the report with the CRA before the corporation acts on the report.
+The corporation must then **wait a reasonable period** — the FCRA does not fix a specific waiting period, and 5 business days is the floor commonly used as a defensible baseline, drawn from informal FTC staff opinion letters that long predate the CFPB's rule-making authority. State analogues and some courts have implied longer, and the clock is best measured from candidate receipt of the pre-adverse-action notice rather than from the employer's send date. The wait period exists to allow the candidate to dispute inaccuracies in the report with the CRA before the corporation acts on the report.
 
 **Step 4 — Adverse-action notice.**
 
@@ -108,7 +108,7 @@ Several states have their own analogues to the federal FCRA that add requirement
 - **New York** — Article 25 of the NY General Business Law imposes additional disclosure and adverse-action requirements.
 - **Massachusetts, Minnesota, New Jersey, and others** — each impose additional variations.
 
-<!-- needs-research: confirm the current text and applicability of each state analogue; the state landscape here shifts and any operating policy must be checked against a recent survey. -->
+State-FCRA-analogue text, scope, and private-right-of-action remedies shift frequently (California's ICRAA, in particular, has produced an active line of appellate decisions on actual-damages requirements and the right-to-receive-a-copy mechanic) — any operating policy must be checked against a current state-by-state survey, not against this chapter.
 
 The operating implication: the corporation's background-check disclosure and adverse-action templates must be state-specific where the corporation hires, or the corporation must run the highest-common-denominator version of the templates that satisfies every applicable state (see the [mod-103 chapter 08 highest-common-denominator vs. per-state discussion](../mod-103-employment-law-and-contract-design/08-state-law-variance.md)).
 
@@ -116,7 +116,7 @@ The operating implication: the corporation's background-check disclosure and adv
 
 "Ban the box" is a broad label for laws that prohibit or delay the employer's inquiry into a candidate's criminal history. The specifics vary sharply by jurisdiction:
 
-- **California** — the California Fair Chance Act (Cal. Gov. Code § 12952) prohibits inquiry into criminal history until a conditional offer of employment has been extended, requires an individualised assessment before making an adverse decision based on criminal history, and requires specific written notices. Local ordinances (San Francisco, Los Angeles) impose additional requirements. <!-- needs-research: confirm current CFCA regulatory text and any 2023–2026 amendments. -->
+- **California** — the California Fair Chance Act (Cal. Gov. Code § 12952) prohibits inquiry into criminal history until a conditional offer of employment has been extended, requires an individualised assessment before making an adverse decision based on criminal history, and requires specific written notices. The implementing regulations at 2 Cal. Code Regs. § 11017.1 were modified by the California Civil Rights Department effective October 1, 2023, expanding the definition of "applicant" to include current employees considered for promotion / transfer / post-change-of-control review, tightening the categories of criminal-history information that may never be considered, and detailing the written-notice content required at each stage. Local ordinances (San Francisco, Los Angeles) impose additional requirements.
 - **New York City** — the Fair Chance Act (NYC Admin. Code § 8-107(11)) prohibits inquiry into criminal history until a conditional offer, requires an individualised assessment (the "NYC Fair Chance Act Notice"), and requires a specific waiting period before the offer can be withdrawn. New York State also has its own Fair Chance Act analog.
 - **Illinois** — the Job Opportunities for Qualified Applicants Act ("Illinois Ban-the-Box Act," 820 ILCS 75) prohibits inquiry into criminal history until an interview has been conducted or a conditional offer has been extended.
 - **Washington** — RCW 49.94 (Washington Fair Chance Act) prohibits inquiry until the corporation has initially determined that the candidate is otherwise qualified.
@@ -128,7 +128,7 @@ Beyond timing, most fair-chance-act statutes require an **individualised assessm
 2. The time elapsed since the offence.
 3. The nature of the job.
 
-The EEOC's April 2012 Enforcement Guidance on the Consideration of Arrest and Conviction Records in Employment Decisions Under Title VII lays out the federal framework the state statutes generally track. <!-- needs-research: confirm that the 2012 EEOC guidance is still the current governing federal guidance and note any updates. -->
+The EEOC's April 2012 Enforcement Guidance on the Consideration of Arrest and Conviction Records in Employment Decisions Under Title VII historically laid out the federal framework that state statutes generally tracked; the EEOC voted on October 28, 2026 to rescind the 2012 guidance, effective immediately. Rescinding the guidance does not change Title VII itself, state fair-chance laws, or the FCRA — Title VII's disparate-impact framework and the nature-and-gravity / time-elapsed / job-relatedness three-factor analysis continue to govern practice through the state statutes and private litigation.
 
 The individualised-assessment step, done in writing and stored against the candidate record, is the anchor of a defensible fair-chance decision.
 
@@ -152,7 +152,7 @@ The moment the corporation hires outside the US, the FCRA framework does not app
 - **India, Singapore, and much of Asia** — the market is served by CRAs that partner with local authorities; each country has its own consent, scope, and permissible-use requirements. Consent forms are typically per-country.
 - **Deeper coverage** — international background-check operating policy is a mod-113 topic; this chapter's role is to flag that "we'll just use the US template" is not viable.
 
-<!-- needs-research: confirm the current DBS scope (Basic / Standard / Enhanced) and eligibility rules for UK employment background checks; confirm the PIPEDA + provincial-analogue landscape for Canadian pre-employment background checks. -->
+The UK DBS operates four check levels (Basic, Standard, Enhanced, Enhanced with Barred List) with eligibility tied to the role under the Rehabilitation of Offenders Act 1974 and its 1975 Exceptions Order — Basic checks are available for any role; Standard and Enhanced are restricted to roles listed in the Exceptions Order (such as healthcare, teaching, and certain regulated professions). Canadian pre-employment background checks run against PIPEDA federally and the provincial analogues (PIPA in BC and Alberta, Quebec's Law 25 governing personal information in the private sector), all of which require candidate consent and purpose-limited collection; criminal-history checks are routed through the RCMP or accredited providers.
 
 ## The ATS integration and the operating implementation
 

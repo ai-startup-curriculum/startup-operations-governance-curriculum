@@ -26,7 +26,7 @@ Four ATS products dominate the venture-backed startup market from seed through S
 - **Lever** — CRM-forward ATS with strong outbound-sourcing tooling; merged product lines under the Employ Inc. umbrella (which also owns Jobvite). Historically strong at high-volume sourcing organizations.
 - **Workable** — SMB-friendly, lower-cost ATS well suited to companies with modest hiring volume and standard needs. Common at pre-seed / seed startups looking for a low-friction starting point.
 
-<!-- needs-research: confirm current pricing tiers, feature sets, and product-line ownership for Ashby, Greenhouse, Lever, and Workable; product positioning has shifted materially over 2022–2026 and needs a current source before quoting specifics. -->
+ATS pricing, feature sets, and corporate ownership shift materially year over year (Lever and Jobvite are both under the Employ Inc. umbrella, for example, and Ashby, Greenhouse, and Workable have each repriced and repackaged feature tiers multiple times in recent years) — quote current rate cards and feature matrices from the vendor directly, not from this chapter, before making a buy decision.
 
 There are other ATS products in the market — Recruitee, SmartRecruiters, Teamtailor, iCIMS, Workday Recruiting, SuccessFactors Recruiting — but they are typically outside the seed → Series-B window. iCIMS and the HCM-native ATS modules (Workday, SuccessFactors) show up at growth-stage / public-company scale, when the HRIS has already graduated to a full HCM (see [chapter 07](./07-hris-peo-payroll-stack.md)).
 
@@ -75,7 +75,7 @@ LinkedIn Recruiter is the outbound-sourcing workhorse across every stage. The AT
 
 LinkedIn Talent Insights is a separate LinkedIn product for talent-market analytics — headcount trends at competitors, hiring / attrition rates by function, geography, and skill. Distinct from Recruiter (which is candidate-facing); Talent Insights is a strategy tool for the head of talent and, at growth stage, the CPO.
 
-<!-- needs-research: confirm the current LinkedIn Recruiter and Talent Insights pricing tiers and RSC integration requirements. -->
+LinkedIn Recruiter Corporate pricing (publicly unlisted; list prices in the $10k–$15k per-seat-per-year range with a multi-seat minimum are commonly reported) and Talent Insights pricing shift year over year — quote directly from LinkedIn's current sales rep. RSC integration eligibility is tied to the ATS vendor's LinkedIn Talent Partner status and to the LinkedIn Recruiter seat level, and should be verified with both vendors before planning the integration.
 
 ### Integration 3 — Interview scheduling
 
